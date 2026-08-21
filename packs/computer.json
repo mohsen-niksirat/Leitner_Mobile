@@ -1,0 +1,3992 @@
+{
+  "name": "واژگان تخصصی کامپیوتر و IT",
+  "description": "۱۰۰ کلمه کلیدی دنیای فناوری اطلاعات",
+  "category": "IT",
+  "words": [
+    {
+      "word": "algorithm",
+      "translation": "الگوریتم",
+      "ipa": "/ˈælɡərɪðəm/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "مجموعه‌ای از دستورات مرحله‌به‌مرحله برای حل مسئله",
+      "definitions": [
+        "a set of rules for solving a problem in a finite number of steps",
+        "a step-by-step procedure for calculations"
+      ],
+      "examples": [
+        "The sorting algorithm is very efficient.",
+        "Machine learning algorithms can recognize patterns.",
+        "We need to optimize the algorithm for better performance."
+      ],
+      "synonyms": [
+        "procedure",
+        "method",
+        "formula",
+        "process"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "sorting algorithm",
+        "search algorithm",
+        "algorithm design",
+        "machine learning algorithm"
+      ],
+      "wordFamily": [
+        "algorithmic",
+        "algorithmically"
+      ],
+      "note": "در علوم کامپیوتر پایه‌ترین مفهوم است. هر برنامه‌ای از الگوریتم ساخته شده",
+      "trap": "با program اشتباه نگیرید — الگوریتم مفهوم انتزاعی است، برنامه پیاده‌سازی آن",
+      "tags": [
+        "computer-science",
+        "programming",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "bandwidth",
+      "translation": "پهنای باند",
+      "ipa": "/ˈbændwɪdθ/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "حداکثر میزان داده‌ای که در واحد زمان منتقل می‌شود",
+      "definitions": [
+        "the capacity of a communications link to transfer data",
+        "the maximum rate of data transfer across a network"
+      ],
+      "examples": [
+        "We need more bandwidth for streaming.",
+        "The bandwidth of this connection is 100 Mbps."
+      ],
+      "synonyms": [
+        "capacity",
+        "throughput",
+        "data rate"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "network bandwidth",
+        "bandwidth limit",
+        "high bandwidth",
+        "bandwidth usage"
+      ],
+      "wordFamily": [
+        "broadband",
+        "wideband"
+      ],
+      "note": "واحد اندازه‌گیری آن بیت بر ثانیه (bps) است",
+      "trap": "با latency اشتباه نگیرید — پهنای باند حجم داده است، تأخیر زمان رسیدن",
+      "tags": [
+        "networking",
+        "performance"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "binary",
+      "translation": "دودویی",
+      "ipa": "/ˈbaɪnəri/",
+      "partOfSpeech": "adjective",
+      "coreMeaning": "سیستم عددی مبتنی بر دو مقدار صفر و یک",
+      "definitions": [
+        "relating to a system of two numbers, 0 and 1",
+        "using only two digits to represent data"
+      ],
+      "examples": [
+        "Computers use binary code to process data.",
+        "The binary number 1010 equals 10 in decimal."
+      ],
+      "synonyms": [
+        "dual",
+        "two-part",
+        "base-two"
+      ],
+      "antonyms": [
+        "decimal",
+        "unary"
+      ],
+      "collocations": [
+        "binary code",
+        "binary search",
+        "binary number",
+        "binary file"
+      ],
+      "wordFamily": [
+        "binary",
+        "binarily"
+      ],
+      "note": "تمام داده‌های کامپیوتری در نهایت به صفر و یک تبدیل می‌شوند",
+      "trap": "فقط به عدد محدود نیست — فایل باینری هم داریم که متنی نیست",
+      "tags": [
+        "computer-science",
+        "fundamental",
+        "data"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "browser",
+      "translation": "مرورگر",
+      "ipa": "/ˈbraʊzər/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "نرم‌افزاری برای دسترسی و نمایش صفحات وب",
+      "definitions": [
+        "a program for accessing and displaying websites",
+        "an application that retrieves and renders web content"
+      ],
+      "examples": [
+        "Chrome is the most popular browser.",
+        "Open the link in a new browser tab."
+      ],
+      "synonyms": [
+        "web client"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "web browser",
+        "browser cache",
+        "browser extension",
+        "browser history"
+      ],
+      "wordFamily": [
+        "browse",
+        "browsing"
+      ],
+      "note": "مرورگرها HTML، CSS و JavaScript را تفسیر و نمایش می‌دهند",
+      "trap": "با search engine اشتباه نگیرید — مرورگر نرم‌افزار است، موتور جستجو سرویس",
+      "tags": [
+        "web",
+        "software"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "buffer",
+      "translation": "بافر",
+      "ipa": "/ˈbʌfər/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "ناحیه‌ای موقت در حافظه برای ذخیره داده در حال انتقال",
+      "definitions": [
+        "a temporary memory area for data in transit",
+        "a region of memory used to hold data while it is being processed"
+      ],
+      "examples": [
+        "The video is buffering because of slow internet.",
+        "Increase the buffer size for smoother playback."
+      ],
+      "synonyms": [
+        "cache",
+        "staging area"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "buffer overflow",
+        "buffer size",
+        "ring buffer",
+        "input buffer"
+      ],
+      "wordFamily": [
+        "buffering",
+        "buffered"
+      ],
+      "note": "بافر بین دستگاه‌هایی با سرعت متفاوت قرار می‌گیرد تا انتقال هماهنگ شود",
+      "trap": "با cache اشتباه نگیرید — بافر موقت انتقال است، کش برای دسترسی سریع مجدد",
+      "tags": [
+        "memory",
+        "performance"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "bug",
+      "translation": "باگ، خطای نرم‌افزاری",
+      "ipa": "/bʌɡ/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "خطا یا مشکل در برنامه که باعث رفتار غیرمنتظره می‌شود",
+      "definitions": [
+        "an error or flaw in a computer program",
+        "a defect that causes unexpected behavior in software"
+      ],
+      "examples": [
+        "We found a bug in the code.",
+        "The developer fixed the bug that caused the crash."
+      ],
+      "synonyms": [
+        "defect",
+        "error",
+        "glitch",
+        "fault"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "bug fix",
+        "bug report",
+        "debugging",
+        "software bug"
+      ],
+      "wordFamily": [
+        "buggy",
+        "debug"
+      ],
+      "note": "اصطلاح از سال ۱۹۴۷ و خرابکاری یک حشره در کامپیوتر مارک ۲ آمده",
+      "trap": "با feature اشتباه نگیرید — بعضی باگ‌ها عمداً به عنوان ویژگی باقی می‌مانند!",
+      "tags": [
+        "software",
+        "debugging",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "cache",
+      "translation": "کش، حافظه موقت",
+      "ipa": "/kæʃ/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "حافظه سریع برای ذخیره داده‌های پرکاربرد",
+      "definitions": [
+        "a temporary storage area for frequently accessed data",
+        "a hardware or software component that stores data for faster future access"
+      ],
+      "examples": [
+        "Clear the browser cache to see the latest changes.",
+        "The CPU cache is much faster than RAM."
+      ],
+      "synonyms": [
+        "buffer",
+        "stored data"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "cache memory",
+        "clear cache",
+        "cache hit",
+        "cache miss"
+      ],
+      "wordFamily": [
+        "caching",
+        "cached"
+      ],
+      "note": "کش سرعت دسترسی را بالا می‌برد اما ممکن است داده قدیمی نشان دهد",
+      "trap": "با buffer اشتباه نگیرید — کش برای دسترسی مجدد سریع است، بافر برای انتقال",
+      "tags": [
+        "performance",
+        "memory",
+        "hardware"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "callback",
+      "translation": "فراخوانی",
+      "ipa": "/ˈkɔːlbæk/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "تابعی که به عنوان آرگومان به تابع دیگری داده می‌شود تا بعداً اجرا شود",
+      "definitions": [
+        "a function passed as an argument to another function",
+        "a function executed after an asynchronous operation completes"
+      ],
+      "examples": [
+        "The callback function runs asynchronously.",
+        "Pass a callback to handle the response."
+      ],
+      "synonyms": [
+        "handler",
+        "listener",
+        "hook"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "callback function",
+        "callback hell",
+        "async callback",
+        "callback pattern"
+      ],
+      "wordFamily": [
+        "call",
+        "recall"
+      ],
+      "note": "در برنامه‌نویسی ناهمزمان بسیار رایج است",
+      "trap": "callback hell زمانی اتفاق می‌افتد که callback‌ها تو در تو زیاد شوند — از Promise استفاده کنید",
+      "tags": [
+        "programming",
+        "async",
+        "javascript"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "class",
+      "translation": "کلاس",
+      "ipa": "/klæs/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "الگویی برای ساخت اشیاء در برنامه‌نویسی شیءگرا",
+      "definitions": [
+        "a blueprint for creating objects in OOP",
+        "a template that defines properties and methods of an object"
+      ],
+      "examples": [
+        "Define a class for the user object.",
+        "The class inherits from the base class."
+      ],
+      "synonyms": [
+        "template",
+        "blueprint",
+        "type"
+      ],
+      "antonyms": [
+        "object",
+        "instance"
+      ],
+      "collocations": [
+        "base class",
+        "class method",
+        "class variable",
+        "class definition"
+      ],
+      "wordFamily": [
+        "classify",
+        "classification"
+      ],
+      "note": "کلاس خود شیء نیست — از آن شیء ساخته می‌شود",
+      "trap": "با object اشتباه نگیرید — کلاس نقشه است، شیء ساختمان ساخته‌شده",
+      "tags": [
+        "programming",
+        "OOP",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "client",
+      "translation": "کلاینت، مشتری",
+      "ipa": "/ˈklaɪənt/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "برنامه یا دستگاهی که از سرویس سرور استفاده می‌کند",
+      "definitions": [
+        "a computer or program that accesses a service provided by a server",
+        "the requesting end of a client-server architecture"
+      ],
+      "examples": [
+        "The client sends requests to the server.",
+        "Build a client-side application with React."
+      ],
+      "synonyms": [
+        "consumer",
+        "requester",
+        "end-user"
+      ],
+      "antonyms": [
+        "server"
+      ],
+      "collocations": [
+        "client-server",
+        "client-side",
+        "thick client",
+        "client application"
+      ],
+      "wordFamily": [
+        "clientele",
+        "client-side"
+      ],
+      "note": "در مدل کلاینت-سرور، کلاینت درخواست و سرور پاسخ می‌دهد",
+      "trap": "در وب، مرورگر کلاینت است — اما در API، هر برنامه‌ای می‌تواند کلاینت باشد",
+      "tags": [
+        "networking",
+        "architecture",
+        "web"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "cloud",
+      "translation": "ابر",
+      "ipa": "/klaʊd/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "ارائه خدمات کامپیوتری از طریق اینترنت",
+      "definitions": [
+        "remote servers accessed via the internet for computing services",
+        "a network of remote servers hosted on the internet for data storage and processing"
+      ],
+      "examples": [
+        "We store data in the cloud.",
+        "Cloud computing reduces infrastructure costs."
+      ],
+      "synonyms": [
+        "cloud computing",
+        "remote servers"
+      ],
+      "antonyms": [
+        "on-premise",
+        "local"
+      ],
+      "collocations": [
+        "cloud storage",
+        "cloud computing",
+        "cloud service",
+        "cloud platform"
+      ],
+      "wordFamily": [
+        "cloudy",
+        "cloud-based"
+      ],
+      "note": "سرویس‌های ابری مثل AWS، Azure و Google Cloud زیرساخت را به صورت اجاره‌ای ارائه می‌دهند",
+      "trap": "ابر واقعاً ابر نیست — فقط سرورهای راه دور هستند",
+      "tags": [
+        "infrastructure",
+        "services",
+        "modern"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "code",
+      "translation": "کد",
+      "ipa": "/koʊd/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "دستورات نوشته‌شده برای کامپیوتر",
+      "definitions": [
+        "instructions written in a programming language",
+        "a set of symbolic instructions for a computer to execute"
+      ],
+      "examples": [
+        "Write clean and readable code.",
+        "The code compiles without errors."
+      ],
+      "synonyms": [
+        "source code",
+        "program",
+        "script"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "source code",
+        "code review",
+        "open source",
+        "code base"
+      ],
+      "wordFamily": [
+        "coder",
+        "coding",
+        "encode",
+        "decode"
+      ],
+      "note": "کد خواندنی باید باشد نه فقط کار کننده — تمیز بنویسید",
+      "trap": "code هم به معنی کد برنامه‌نویسی و هم کد مخفی (encryption) است — context مهم است",
+      "tags": [
+        "programming",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "compile",
+      "translation": "کامپایل کردن",
+      "ipa": "/kəmˈpaɪl/",
+      "partOfSpeech": "verb",
+      "coreMeaning": "تبدیل کد منبع به زبان ماشین قابل اجرا",
+      "definitions": [
+        "to convert source code into machine code",
+        "to translate a high-level program into executable form"
+      ],
+      "examples": [
+        "Compile the program before running it.",
+        "The code failed to compile due to syntax errors."
+      ],
+      "synonyms": [
+        "build",
+        "translate",
+        "assemble"
+      ],
+      "antonyms": [
+        "interpret",
+        "decompile"
+      ],
+      "collocations": [
+        "compile time",
+        "compile error",
+        "compile code",
+        "cross-compile"
+      ],
+      "wordFamily": [
+        "compiler",
+        "compilation"
+      ],
+      "note": "کامپایلر کل برنامه را یکجا تبدیل می‌کند ولی مفسر خط به خط اجرا می‌کند",
+      "trap": "با interpret اشتباه نگیرید — کامپایل قبل از اجراست، تفسیر حین اجرا",
+      "tags": [
+        "programming",
+        "build",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "component",
+      "translation": "کامپوننت",
+      "ipa": "/kəmˈpoʊnənt/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "واحد مستقل و قابل استفاده مجدد در یک سیستم نرم‌افزاری",
+      "definitions": [
+        "a modular, reusable part of a software system",
+        "an independent unit that encapsulates functionality"
+      ],
+      "examples": [
+        "Each UI component is reusable.",
+        "Break the page into smaller components."
+      ],
+      "synonyms": [
+        "module",
+        "widget",
+        "element"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "UI component",
+        "component library",
+        "React component",
+        "component-based"
+      ],
+      "wordFamily": [
+        "compose",
+        "composition",
+        "composite"
+      ],
+      "note": "در فریمورک‌های مدرن مثل React، همه چیز کامپوننت است",
+      "trap": "با module فرق دارد — کامپوننت معمولاً UI است، ماژول منطق کسب‌وکار",
+      "tags": [
+        "programming",
+        "architecture",
+        "UI"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "concatenate",
+      "translation": "الحاق کردن",
+      "ipa": "/kɑːnˈkætəneɪt/",
+      "partOfSpeech": "verb",
+      "coreMeaning": "به هم چسباندن رشته‌ها یا داده‌ها به ترتیب",
+      "definitions": [
+        "to link things together in a chain",
+        "to join two or more strings end-to-end"
+      ],
+      "examples": [
+        "Concatenate the two strings with a space between them.",
+        "Use the plus operator to concatenate text values."
+      ],
+      "synonyms": [
+        "join",
+        "merge",
+        "combine",
+        "append"
+      ],
+      "antonyms": [
+        "split",
+        "separate"
+      ],
+      "collocations": [
+        "concatenate strings",
+        "string concatenation",
+        "concatenate arrays"
+      ],
+      "wordFamily": [
+        "concatenation"
+      ],
+      "note": "در اکثر زبان‌ها با عملگر + یا . انجام می‌شود",
+      "trap": "در JavaScript، + بین عدد و رشته الحاق انجام می‌دهد نه جمع!",
+      "tags": [
+        "programming",
+        "strings",
+        "data"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "configuration",
+      "translation": "پیکربندی",
+      "ipa": "/kənˌfɪɡjəˈreɪʃən/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "تنظیمات و چیدمان عناصر یک سیستم",
+      "definitions": [
+        "the arrangement of elements in a system",
+        "a set of parameters that define how software operates"
+      ],
+      "examples": [
+        "Change the server configuration.",
+        "Store the configuration in a YAML file."
+      ],
+      "synonyms": [
+        "settings",
+        "setup",
+        "preferences"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "configuration file",
+        "system configuration",
+        "network configuration",
+        "default configuration"
+      ],
+      "wordFamily": [
+        "configure",
+        "configurable"
+      ],
+      "note": "فایل‌های پیکربندی معمولاً JSON، YAML یا INI هستند",
+      "trap": "configuration و config هر دو درست هستند — config مخفف رایج‌تر است",
+      "tags": [
+        "system",
+        "settings",
+        "infrastructure"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "constructor",
+      "translation": "سازنده",
+      "ipa": "/kənˈstrʌktər/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "متد ویژه‌ای که هنگام ساخت شیء فراخوانی می‌شود",
+      "definitions": [
+        "a special method for creating and initializing objects",
+        "a function that sets up initial state of an object instance"
+      ],
+      "examples": [
+        "The constructor initializes the object with default values.",
+        "Call the constructor with the required parameters."
+      ],
+      "synonyms": [
+        "initializer",
+        "creator"
+      ],
+      "antonyms": [
+        "destructor"
+      ],
+      "collocations": [
+        "default constructor",
+        "constructor method",
+        "constructor overloading"
+      ],
+      "wordFamily": [
+        "construct",
+        "construction"
+      ],
+      "note": "در اکثر زبان‌ها نام سازنده با نام کلاس یکی است",
+      "trap": "با destructor اشتباه نگیرید — سازنده ایجاد می‌کند، ویرانگر آزاد می‌کند",
+      "tags": [
+        "programming",
+        "OOP"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "container",
+      "translation": "کانتینر",
+      "ipa": "/kənˈteɪnər/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "محیط ایزوله‌ای برای اجرای نرم‌افزار با وابستگی‌هایش",
+      "definitions": [
+        "a standardized unit of software packaging that bundles code and dependencies",
+        "an isolated runtime environment for running applications"
+      ],
+      "examples": [
+        "Deploy the app in a Docker container.",
+        "Containers are lighter than virtual machines."
+      ],
+      "synonyms": [
+        "sandbox",
+        "isolated environment"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "Docker container",
+        "container orchestration",
+        "container image",
+        "container runtime"
+      ],
+      "wordFamily": [
+        "containerize",
+        "containerization"
+      ],
+      "note": "容器‌ها منابع سیستم‌عامل را به اشتراک می‌گذارند ولی ایزوله هستند",
+      "trap": "با VM اشتباه نگیرید — کانتینر سیستم‌عامل مشترک دارد، VM سیستم‌عامل جدا",
+      "tags": [
+        "devops",
+        "infrastructure",
+        "modern"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "CPU",
+      "translation": "پردازنده مرکزی",
+      "ipa": "/ˌsiː piː ˈjuː/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "واحد پردازش مرکزی که دستورات را اجرا می‌کند",
+      "definitions": [
+        "Central Processing Unit — the primary component that executes instructions",
+        "the brain of a computer that performs calculations and logic operations"
+      ],
+      "examples": [
+        "The CPU processes all instructions.",
+        "This server has a 32-core CPU."
+      ],
+      "synonyms": [
+        "processor",
+        "chip",
+        "microprocessor"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "CPU usage",
+        "CPU core",
+        "CPU intensive",
+        "CPU architecture"
+      ],
+      "wordFamily": [
+        "processor",
+        "processing"
+      ],
+      "note": "CPU مسئول اجرای دستورات برنامه‌ها است و سرعت آن با گیگاهرتز اندازه‌گیری می‌شود",
+      "trap": "با GPU اشتباه نگیرید — CPU عمومی است، GPU برای پردازش گرافیکی و موازی",
+      "tags": [
+        "hardware",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "cursor",
+      "translation": "مکان‌نما",
+      "ipa": "/ˈkɜːrsər/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "نشانگر بصری روی صفحه که موقعیت فعلی را نشان می‌دهد",
+      "definitions": [
+        "a moving indicator on a screen showing position",
+        "a blinking line or pointer showing where input will appear"
+      ],
+      "examples": [
+        "Move the cursor to the next line.",
+        "The cursor blinks at the end of the text."
+      ],
+      "synonyms": [
+        "pointer",
+        "caret"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "cursor position",
+        "mouse cursor",
+        "text cursor",
+        "cursor movement"
+      ],
+      "wordFamily": [
+        "cursorily",
+        "cursory"
+      ],
+      "note": "در متن مکان‌نما خط چشمک‌زن است و در دسکتاپ فلش موس",
+      "trap": "cursor در SQL هم معنی دیگری دارد — اشاره‌گر روی نتیجه کوئری",
+      "tags": [
+        "UI",
+        "input"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "dashboard",
+      "translation": "داشبورد",
+      "ipa": "/ˈdæʃbɔːrd/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "صفحه‌ای بصری برای نمایش اطلاعات کلیدی و شاخص‌ها",
+      "definitions": [
+        "a visual display of key information and metrics",
+        "an interface that provides an overview of important data"
+      ],
+      "examples": [
+        "The admin dashboard shows analytics.",
+        "Check the dashboard for real-time metrics."
+      ],
+      "synonyms": [
+        "control panel",
+        "overview",
+        "monitor"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "admin dashboard",
+        "analytics dashboard",
+        "dashboard design",
+        "real-time dashboard"
+      ],
+      "wordFamily": [
+        "dash",
+        "boarding"
+      ],
+      "note": "داشبوردها برای تصمیم‌گیری سریع بر اساس داده طراحی می‌شوند",
+      "trap": "فقط برای مدیران نیست — هر کاربری می‌تواند داشبورد داشته باشد",
+      "tags": [
+        "UI",
+        "analytics",
+        "design"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "database",
+      "translation": "پایگاه داده",
+      "ipa": "/ˈdeɪtəbeɪs/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "سیستمی سازمان‌یافته برای ذخیره و بازیابی داده‌ها",
+      "definitions": [
+        "an organized collection of structured data",
+        "a system for storing, managing, and retrieving data efficiently"
+      ],
+      "examples": [
+        "Store user data in a database.",
+        "The database query returned 1000 records."
+      ],
+      "synonyms": [
+        "data store",
+        "repository",
+        "DBMS"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "relational database",
+        "database query",
+        "database schema",
+        "NoSQL database"
+      ],
+      "wordFamily": [
+        "data",
+        "databank"
+      ],
+      "note": "پایگاه‌های داده رابط‌ای (SQL) و غیررابط‌ای (NoSQL) دو نوع اصلی هستند",
+      "trap": "database و DBMS فرق دارند — دیتابیس داده است، DBMS نرم‌افزار مدیریت آن",
+      "tags": [
+        "data",
+        "storage",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "debug",
+      "translation": "اشکال‌زدایی",
+      "ipa": "/diːˈbʌɡ/",
+      "partOfSpeech": "verb",
+      "coreMeaning": "پیدا کردن و رفع خطاهای برنامه",
+      "definitions": [
+        "to find and fix errors or defects in code",
+        "to identify the cause of a bug and resolve it"
+      ],
+      "examples": [
+        "I need to debug this function.",
+        "Use breakpoints to debug the application."
+      ],
+      "synonyms": [
+        "troubleshoot",
+        "fix",
+        "diagnose"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "debug code",
+        "debug mode",
+        "debugging tool",
+        "remote debugging"
+      ],
+      "wordFamily": [
+        "debugger",
+        "debugging"
+      ],
+      "note": "دیباگر ابزاری است که اجرای برنامه را خط به خط دنبال می‌کند",
+      "trap": "debug فقط باگ نیست — مشکلات عملکردی و منطقی هم نیاز به اشکال‌زدایی دارند",
+      "tags": [
+        "debugging",
+        "programming",
+        "development"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "deploy",
+      "translation": "استقرار",
+      "ipa": "/dɪˈplɔɪ/",
+      "partOfSpeech": "verb",
+      "coreMeaning": "انتقال نرم‌افزار به محیط عملیاتی واقعی",
+      "definitions": [
+        "to launch or release software into a live environment",
+        "to make an application available for end users"
+      ],
+      "examples": [
+        "Deploy the app to production.",
+        "We deploy updates every Friday."
+      ],
+      "synonyms": [
+        "release",
+        "launch",
+        "publish",
+        "roll out"
+      ],
+      "antonyms": [
+        "undeploy",
+        "rollback"
+      ],
+      "collocations": [
+        "deploy to production",
+        "auto-deploy",
+        "deploy pipeline",
+        "continuous deployment"
+      ],
+      "wordFamily": [
+        "deployment"
+      ],
+      "note": "استقرار موفق نیاز به تست کامل و CI/CD دارد",
+      "trap": "با release فرق دارد — deploy به محیط است، release به کاربر",
+      "tags": [
+        "devops",
+        "deployment",
+        "operations"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "dependency",
+      "translation": "وابستگی",
+      "ipa": "/dɪˈpendənsi/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "کتابخانه یا بسته خارجی که پروژه به آن نیاز دارد",
+      "definitions": [
+        "an external library or package required by a project",
+        "a relationship where one module relies on another"
+      ],
+      "examples": [
+        "Install all project dependencies.",
+        "Check for dependency conflicts."
+      ],
+      "synonyms": [
+        "requirement",
+        "prerequisite",
+        "library"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "dependency injection",
+        "dependency management",
+        "install dependencies",
+        "dependency tree"
+      ],
+      "wordFamily": [
+        "depend",
+        "dependent",
+        "independent"
+      ],
+      "note": "ابزارهایی مثل npm و pip وابستگی‌ها را مدیریت می‌کنند",
+      "trap": "dependency hell زمانی است که وابستگی‌ها با هم تناقض داشته باشند",
+      "tags": [
+        "package-management",
+        "architecture",
+        "development"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "DNS",
+      "translation": "سیستم نام دامنه",
+      "ipa": "/ˌdiː en ˈes/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "سیستمی که نام دامنه را به آدرس IP تبدیل می‌کند",
+      "definitions": [
+        "Domain Name System — translates domain names to IP addresses",
+        "the internet's directory service that maps names to numbers"
+      ],
+      "examples": [
+        "DNS translates domain names to IPs.",
+        "Configure DNS records for your domain."
+      ],
+      "synonyms": [
+        "domain name resolution",
+        "name service"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "DNS server",
+        "DNS record",
+        "DNS lookup",
+        "DNS resolution"
+      ],
+      "wordFamily": [
+        "domain",
+        "naming"
+      ],
+      "note": "بدون DNS باید آدرس IP سایت‌ها را حفظ می‌کردید",
+      "trap": "DNS propagation ممکن است تا ۴۸ ساعت طول بکشد — تغییر فوری نیست",
+      "tags": [
+        "networking",
+        "internet",
+        "infrastructure"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "encrypt",
+      "translation": "رمزنگاری کردن",
+      "ipa": "/ɪnˈkrɪpt/",
+      "partOfSpeech": "verb",
+      "coreMeaning": "تبدیل داده به فرم غیرقابل خواندن برای محافظت",
+      "definitions": [
+        "to convert data into a coded form to prevent unauthorized access",
+        "to transform plaintext into ciphertext using an algorithm"
+      ],
+      "examples": [
+        "Encrypt sensitive data before storing it.",
+        "The message was encrypted with AES-256."
+      ],
+      "synonyms": [
+        "encode",
+        "cipher",
+        "scramble"
+      ],
+      "antonyms": [
+        "decrypt",
+        "decode"
+      ],
+      "collocations": [
+        "encrypt data",
+        "end-to-end encryption",
+        "encrypted connection",
+        "encrypt files"
+      ],
+      "wordFamily": [
+        "encryption",
+        "encrypted",
+        "decrypt"
+      ],
+      "note": "رمزنگاری دو نوع اصلی دارد: متقارن (یک کلید) و نامتقارن (دو کلید)",
+      "trap": "با encode اشتباه نگیرید — رمزنگاری امنیت است، کدگذاری فرمت تبدیل است",
+      "tags": [
+        "security",
+        "cryptography",
+        "data-protection"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "endpoint",
+      "translation": "نقطه پایانی",
+      "ipa": "/ˈendpɔɪnt/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "آدرس URL که API از طریق آن قابل دسترسی است",
+      "definitions": [
+        "a URL where an API can be accessed",
+        "a point of interaction between a client and a server"
+      ],
+      "examples": [
+        "The API endpoint returns JSON data.",
+        "Test each endpoint individually."
+      ],
+      "synonyms": [
+        "API route",
+        "API URL",
+        "resource"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "API endpoint",
+        "REST endpoint",
+        "endpoint URL",
+        "endpoint security"
+      ],
+      "wordFamily": [
+        "end",
+        "pointing"
+      ],
+      "note": "هر endpoint معمولاً یک HTTP method (GET, POST, ...) دارد",
+      "trap": "endpoint در امنیت شبکه معنی متفاوتی دارد — نقطه پایانی دستگاه کاربر",
+      "tags": [
+        "API",
+        "web",
+        "networking"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "exception",
+      "translation": "استثنا، خطا",
+      "ipa": "/ɪkˈsepʃən/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "رویداد غیرمنتظره‌ای که جریان عادی برنامه را مختل می‌کند",
+      "definitions": [
+        "an error that disrupts the normal flow of a program",
+        "an event that occurs during execution and requires special handling"
+      ],
+      "examples": [
+        "Handle exceptions gracefully.",
+        "The function throws an exception on invalid input."
+      ],
+      "synonyms": [
+        "error",
+        "fault",
+        "runtime error"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "exception handling",
+        "throw exception",
+        "catch exception",
+        "exception handler"
+      ],
+      "wordFamily": [
+        "exceptional",
+        "exceptionally"
+      ],
+      "note": "مدیریت استثنا با try-catch از کرش برنامه جلوگیری می‌کند",
+      "trap": "exception و error دقیقاً یکی نیستند — خطا ممکن است قابل بازیابی نباشد",
+      "tags": [
+        "programming",
+        "error-handling"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "execute",
+      "translation": "اجرا کردن",
+      "ipa": "/ˈeksɪkjuːt/",
+      "partOfSpeech": "verb",
+      "coreMeaning": "انجام دادن دستورات یک برنامه توسط کامپیوتر",
+      "definitions": [
+        "to carry out a command or run a program",
+        "to perform the instructions specified in code"
+      ],
+      "examples": [
+        "Execute the script with Node.js.",
+        "The processor executes one instruction at a time."
+      ],
+      "synonyms": [
+        "run",
+        "perform",
+        "carry out"
+      ],
+      "antonyms": [
+        "halt",
+        "stop",
+        "terminate"
+      ],
+      "collocations": [
+        "execute code",
+        "execute command",
+        "execution time",
+        "execute permission"
+      ],
+      "wordFamily": [
+        "execution",
+        "executor",
+        "executable"
+      ],
+      "note": "در لینوکس فایل باید permission اجرا داشته باشد",
+      "trap": "execute و run مترادف هستند ولی execute رسمی‌تر است",
+      "tags": [
+        "programming",
+        "system",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "expression",
+      "translation": "عبارت",
+      "ipa": "/ɪkˈspreʃən/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "ترکیبی از مقادیر، متغیرها و عملگرها که مقداری تولید می‌کند",
+      "definitions": [
+        "a combination of values, variables, and operators that evaluates to a value",
+        "a syntactic entity that represents a computation"
+      ],
+      "examples": [
+        "This is a regular expression pattern.",
+        "The expression evaluates to true."
+      ],
+      "synonyms": [
+        "formula",
+        "equation",
+        "statement"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "regular expression",
+        "expression evaluation",
+        "lambda expression",
+        "conditional expression"
+      ],
+      "wordFamily": [
+        "express",
+        "expressive"
+      ],
+      "note": "عبارت با جمله (statement) فرق دارد — عبارت مقدار برمی‌گرداند",
+      "trap": "expression و statement یکی نیستند — `x = 5` عبارت است، `if(x>0)` جمله",
+      "tags": [
+        "programming",
+        "syntax",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "fetch",
+      "translation": "دریافت کردن",
+      "ipa": "/fetʃ/",
+      "partOfSpeech": "verb",
+      "coreMeaning": "دریافت داده از سرور یا منبع راه دور",
+      "definitions": [
+        "to retrieve data from a server or remote source",
+        "to request and obtain information from a network resource"
+      ],
+      "examples": [
+        "Fetch data from the API.",
+        "The browser fetches resources from the server."
+      ],
+      "synonyms": [
+        "retrieve",
+        "get",
+        "obtain",
+        "request"
+      ],
+      "antonyms": [
+        "send",
+        "push",
+        "submit"
+      ],
+      "collocations": [
+        "fetch data",
+        "fetch API",
+        "fetch request",
+        "fetch and display"
+      ],
+      "wordFamily": [
+        "fetching"
+      ],
+      "note": "در جاوااسکریپت، fetch() API جایگزین XMLHttpRequest شده",
+      "trap": "fetch ناهمزمان است — باید از async/await یا .then() استفاده کنید",
+      "tags": [
+        "API",
+        "web",
+        "javascript"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "firewall",
+      "translation": "فایروال",
+      "ipa": "/ˈfaɪərwɔːl/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "سیستم امنیتی شبکه که ترافیک ورودی و خروجی را کنترل می‌کند",
+      "definitions": [
+        "a network security system that monitors and controls traffic",
+        "a barrier that blocks unauthorized access while permitting legitimate communication"
+      ],
+      "examples": [
+        "The firewall blocks unauthorized access.",
+        "Configure the firewall rules carefully."
+      ],
+      "synonyms": [
+        "security barrier",
+        "network filter"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "firewall rules",
+        "firewall configuration",
+        "software firewall",
+        "hardware firewall"
+      ],
+      "wordFamily": [
+        "fire",
+        "walling"
+      ],
+      "note": "فایروال می‌تواند سخت‌افزاری یا نرم‌افزاری باشد",
+      "trap": "فایروال به تنهایی کافی نیست — لایه‌های امنیتی متعدد لازم است",
+      "tags": [
+        "security",
+        "networking",
+        "infrastructure"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "framework",
+      "translation": "فریمورک",
+      "ipa": "/ˈfreɪmwɜːrk/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "ساختار از پیش ساخته‌ای که توسعه نرم‌افزار را سرعت می‌بخشد",
+      "definitions": [
+        "a basic structure underlying a software system",
+        "a pre-built set of tools and conventions for developing applications"
+      ],
+      "examples": [
+        "React is a popular JavaScript framework.",
+        "Choose a framework that fits your project needs."
+      ],
+      "synonyms": [
+        "platform",
+        "library",
+        "scaffold"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "web framework",
+        "framework design",
+        "MVC framework",
+        "front-end framework"
+      ],
+      "wordFamily": [
+        "frame",
+        "work"
+      ],
+      "note": "فریمورک قوانین خود را دارد — شما کد می‌نویسید ولی فریمورک اجرا می‌کند (Inversion of Control)",
+      "trap": "با library فرق دارد — فریمورک کنترل جریان را در دست می‌گیرد، library فقط ابزار می‌دهد",
+      "tags": [
+        "programming",
+        "development",
+        "architecture"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "function",
+      "translation": "تابع",
+      "ipa": "/ˈfʌŋkʃən/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "بلوکی قابل استفاده مجدد از کد که کار مشخصی انجام می‌دهد",
+      "definitions": [
+        "a reusable block of code that performs a specific task",
+        "a named procedure that takes input, processes it, and returns output"
+      ],
+      "examples": [
+        "Define a function to calculate the sum.",
+        "Call the function with the required arguments."
+      ],
+      "synonyms": [
+        "method",
+        "procedure",
+        "routine",
+        "subroutine"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "function call",
+        "built-in function",
+        "anonymous function",
+        "higher-order function"
+      ],
+      "wordFamily": [
+        "functional",
+        "functionality"
+      ],
+      "note": "تابع باید یک کار مشخص انجام دهد — اصل تک مسئولیتی",
+      "trap": "function و method فرق دارند — method به شیء وابسته است، function مستقل",
+      "tags": [
+        "programming",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "garbage collection",
+      "translation": "جمع‌آوری زباله",
+      "ipa": "/ˈɡɑːrbɪdʒ kəˈlekʃən/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "فرآیند خودکار آزادسازی حافظه‌ای که دیگر استفاده نمی‌شود",
+      "definitions": [
+        "automatic memory management that frees unused memory",
+        "a process that identifies and discards objects no longer referenced by the program"
+      ],
+      "examples": [
+        "Java uses automatic garbage collection.",
+        "The garbage collector runs periodically in the background."
+      ],
+      "synonyms": [
+        "memory management",
+        "auto-cleanup"
+      ],
+      "antonyms": [
+        "manual memory management"
+      ],
+      "collocations": [
+        "garbage collector",
+        "garbage collection pause",
+        "generational garbage collection"
+      ],
+      "wordFamily": [
+        "garbage",
+        "collect",
+        "collector"
+      ],
+      "note": "زبان‌هایی مثل Java و Python جمع‌آوری زباله خودکار دارند ولی C/C++ نه",
+      "trap": "جمع‌آوری زباله تضمین نمی‌کند حافظه فوراً آزاد شود — زمان‌بندی آن نامشخص است",
+      "tags": [
+        "memory",
+        "performance",
+        "languages"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "Git",
+      "translation": "گیت",
+      "ipa": "/ɡɪt/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "سیستم کنترل نسخه توزیع‌شده برای مدیریت تغییرات کد",
+      "definitions": [
+        "a distributed version control system for tracking changes in source code",
+        "a tool that allows multiple developers to collaborate on a project"
+      ],
+      "examples": [
+        "Use Git for version control.",
+        "Commit your changes to Git regularly."
+      ],
+      "synonyms": [
+        "VCS",
+        "version control"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "Git repository",
+        "Git commit",
+        "Git branch",
+        "Git merge"
+      ],
+      "wordFamily": [
+        "git-based"
+      ],
+      "note": "گیت توسط لینوس توروالدز برای توسعه لینوکس ساخته شد",
+      "trap": "Git و GitHub یکی نیستند — Git ابزار است، GitHub سرویس ابری مبتنی بر Git",
+      "tags": [
+        "devops",
+        "version-control",
+        "development"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "handle",
+      "translation": "مدیریت کردن",
+      "ipa": "/ˈhændl/",
+      "partOfSpeech": "verb",
+      "coreMeaning": "پردازش و مدیریت درخواست‌ها یا رویدادها",
+      "definitions": [
+        "to manage or deal with requests, events, or errors",
+        "to process and respond to incoming data or signals"
+      ],
+      "examples": [
+        "The server handles multiple requests.",
+        "Handle the error with a try-catch block."
+      ],
+      "synonyms": [
+        "manage",
+        "process",
+        "deal with"
+      ],
+      "antonyms": [
+        "ignore",
+        "neglect"
+      ],
+      "collocations": [
+        "handle request",
+        "handle error",
+        "event handler",
+        "request handler"
+      ],
+      "wordFamily": [
+        "handler",
+        "handling"
+      ],
+      "note": "در وب، handler تابعی است که رویداد یا درخواست را پردازش می‌کند",
+      "trap": "handle و manage مترادف هستند ولی handle در برنامه‌نویسی خاص‌تر است",
+      "tags": [
+        "programming",
+        "web",
+        "server"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "hash",
+      "translation": "هش",
+      "ipa": "/hæʃ/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "رشته‌ای با طول ثابت که از داده ورودی تولید می‌شود",
+      "definitions": [
+        "a fixed-length string produced by a hashing algorithm",
+        "a value derived from data that serves as a digital fingerprint"
+      ],
+      "examples": [
+        "Store passwords as hash values.",
+        "Compare the hash to verify file integrity."
+      ],
+      "synonyms": [
+        "digest",
+        "checksum"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "hash table",
+        "hash function",
+        "hash map",
+        "hash value"
+      ],
+      "wordFamily": [
+        "hashing",
+        "hashable"
+      ],
+      "note": "هش یک‌طرفه است — از هش نمی‌توان داده اصلی را برگرداند",
+      "trap": "هش رمزنگاری نیست — قابل بازگشت نیست ولی قابل حدس زدن است (rainbow table)",
+      "tags": [
+        "security",
+        "data-structure",
+        "cryptography"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "heap",
+      "translation": "هیپ",
+      "ipa": "/hiːp/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "ناحیه‌ای از حافظه برای تخصیص پویای اشیاء",
+      "definitions": [
+        "a region of memory used for dynamic allocation",
+        "a memory area where objects are allocated at runtime"
+      ],
+      "examples": [
+        "Objects are stored in the heap.",
+        "The heap grows as more memory is allocated."
+      ],
+      "synonyms": [
+        "free store",
+        "dynamic memory"
+      ],
+      "antonyms": [
+        "stack"
+      ],
+      "collocations": [
+        "heap memory",
+        "heap allocation",
+        "heap overflow",
+        "heap sort"
+      ],
+      "wordFamily": [
+        "heaping",
+        "heaped"
+      ],
+      "note": "حافظه هیپ باید توسط برنامه‌نویس یا garbage collector مدیریت شود",
+      "trap": "با stack اشتباه نگیرید — هیپ پویا و آزاد است، پشته خودکار و مرتب",
+      "tags": [
+        "memory",
+        "data-structure",
+        "system"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "host",
+      "translation": "میزبان",
+      "ipa": "/hoʊst/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "کامپیوتری که خدمات یا وب‌سایت ارائه می‌دهد",
+      "definitions": [
+        "a computer that provides services to other computers",
+        "a server that stores and delivers web content"
+      ],
+      "examples": [
+        "The host serves the website to visitors.",
+        "Choose a reliable hosting provider."
+      ],
+      "synonyms": [
+        "server",
+        "hosting provider"
+      ],
+      "antonyms": [
+        "client",
+        "guest"
+      ],
+      "collocations": [
+        "web host",
+        "host name",
+        "hosting service",
+        "remote host"
+      ],
+      "wordFamily": [
+        "hosting",
+        "hosted"
+      ],
+      "note": "host به هر کامپیوتری در شبکه اشاره دارد، نه فقط سرور",
+      "trap": "host و server مترادف نیستند — هر سروری host است ولی هر host‌ای سرور نیست",
+      "tags": [
+        "networking",
+        "web",
+        "infrastructure"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "HTML",
+      "translation": "زبان نشانه‌گذاری ابرمتن",
+      "ipa": "/ˌeɪtʃ tiː em ˈel/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "زبان نشانه‌گذاری استاندارد برای ساختار صفحات وب",
+      "definitions": [
+        "HyperText Markup Language — the standard markup language for creating web pages",
+        "a language that uses tags to structure content on the web"
+      ],
+      "examples": [
+        "Write the page structure in HTML.",
+        "HTML defines the layout of the webpage."
+      ],
+      "synonyms": [
+        "markup language",
+        "web markup"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "HTML element",
+        "HTML tag",
+        "HTML5",
+        "HTML structure"
+      ],
+      "wordFamily": [
+        "hypertext",
+        "markup"
+      ],
+      "note": "HTML زبان برنامه‌نویسی نیست — زبان نشانه‌گذاری است",
+      "trap": "HTML فقط ساختار است — ظاهر با CSS و رفتار با JavaScript",
+      "tags": [
+        "web",
+        "markup",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "HTTP",
+      "translation": "پروتکل انتقال ابرمتن",
+      "ipa": "/ˌeɪtʃ tiː tiː ˈpiː/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "پروتکل استاندارد انتقال داده در وب",
+      "definitions": [
+        "HyperText Transfer Protocol — the foundation of web communication",
+        "a protocol that defines how messages are formatted and transmitted on the web"
+      ],
+      "examples": [
+        "HTTP is the foundation of web communication.",
+        "Use HTTPS for secure connections."
+      ],
+      "synonyms": [
+        "web protocol",
+        "transfer protocol"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "HTTP request",
+        "HTTP response",
+        "HTTP status code",
+        "HTTPS"
+      ],
+      "wordFamily": [
+        "hypertext",
+        "transfer"
+      ],
+      "note": "HTTP بدون S ناامن است — همیشه HTTPS استفاده کنید",
+      "trap": "HTTP و HTTPS فرق دارند — HTTPS رمزنگاری شده و امن است",
+      "tags": [
+        "networking",
+        "web",
+        "protocol",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "IDE",
+      "translation": "محیط توسعه یکپارچه",
+      "ipa": "/ˌaɪ diː ˈiː/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "نرم‌افزاری جامع برای نوشتن، تست و دیباگ کد",
+      "definitions": [
+        "Integrated Development Environment — a comprehensive tool for software development",
+        "an application that provides code editing, debugging, and build tools in one interface"
+      ],
+      "examples": [
+        "VS Code is a popular IDE.",
+        "Use an IDE with good IntelliSense support."
+      ],
+      "synonyms": [
+        "code editor",
+        "development tool"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "IDE plugin",
+        "IDE configuration",
+        "web IDE",
+        "lightweight IDE"
+      ],
+      "wordFamily": [
+        "IDE-based"
+      ],
+      "note": "IDE ادیتور کد + دیباگر + ابزار بیلد در یک بسته است",
+      "trap": "IDE و code editor فرق دارند — IDE امکانات بیشتری مثل دیباگر و بیلد دارد",
+      "tags": [
+        "development",
+        "tools"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "inheritance",
+      "translation": "وراثت",
+      "ipa": "/ɪnˈherɪtəns/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "قابلیت ارث‌بری ویژگی‌ها و متدها از کلاس والد",
+      "definitions": [
+        "a mechanism where a class derives properties and methods from another class",
+        "a way to create a new class based on an existing class"
+      ],
+      "examples": [
+        "Inheritance allows code reuse in OOP.",
+        "The child class inherits from the parent class."
+      ],
+      "synonyms": [
+        "derivation",
+        "extension"
+      ],
+      "antonyms": [
+        "composition"
+      ],
+      "collocations": [
+        "class inheritance",
+        "single inheritance",
+        "multiple inheritance",
+        "inheritance chain"
+      ],
+      "wordFamily": [
+        "inherit",
+        "inherited"
+      ],
+      "note": "وراثت کد را قابل استفاده مجدد می‌کند ولی زیاده‌روی در آن مشکل‌ساز است",
+      "trap": "composition اغلب بهتر از inheritance است — رابطه \"دارد\" بهتر از \"نوعی از\"",
+      "tags": [
+        "programming",
+        "OOP",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "initialize",
+      "translation": "مقداردهی اولیه",
+      "ipa": "/ɪˈnɪʃəlaɪz/",
+      "partOfSpeech": "verb",
+      "coreMeaning": "تنظیم مقدار اولیه یک متغیر یا شیء",
+      "definitions": [
+        "to set an initial value for a variable or object",
+        "to prepare a resource or component for use"
+      ],
+      "examples": [
+        "Initialize the variable before use.",
+        "The constructor initializes the object."
+      ],
+      "synonyms": [
+        "set up",
+        "prepare",
+        "instantiate"
+      ],
+      "antonyms": [
+        "destroy",
+        "deallocate"
+      ],
+      "collocations": [
+        "initialize variable",
+        "initialize array",
+        "initialization code",
+        "lazy initialization"
+      ],
+      "wordFamily": [
+        "initialization",
+        "initializer"
+      ],
+      "note": "استفاده از متغیر بدون مقداردهی اولیه در بسیاری زبان‌ها خطا ایجاد می‌کند",
+      "trap": "initialize و declare فرق دارند — تعریف فقط نام ایجاد می‌کند، مقداردهی مقدار می‌دهد",
+      "tags": [
+        "programming",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "input",
+      "translation": "ورودی",
+      "ipa": "/ˈɪnpʊt/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "داده‌ای که به سیستم وارد می‌شود",
+      "definitions": [
+        "data entered into a computer system",
+        "information provided to a program for processing"
+      ],
+      "examples": [
+        "Validate all user input.",
+        "The function takes two inputs."
+      ],
+      "synonyms": [
+        "data",
+        "entry",
+        "feed"
+      ],
+      "antonyms": [
+        "output"
+      ],
+      "collocations": [
+        "user input",
+        "input field",
+        "input validation",
+        "input device"
+      ],
+      "wordFamily": [
+        "inputting",
+        "inputter"
+      ],
+      "note": "اعتبارسنجی ورودی یکی از مهم‌ترین اقدامات امنیتی است",
+      "trap": "هرگز به ورودی کاربر اعتماد نکنید — همیشه اعتبارسنجی کنید",
+      "tags": [
+        "programming",
+        "IO",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "instance",
+      "translation": "نمونه",
+      "ipa": "/ˈɪnstəns/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "نسخه‌ای خاص و مشخص از یک کلاس",
+      "definitions": [
+        "a specific occurrence of an object created from a class",
+        "a concrete realization of a class template"
+      ],
+      "examples": [
+        "Create an instance of the class.",
+        "Each instance has its own properties."
+      ],
+      "synonyms": [
+        "object",
+        "occurrence",
+        "realization"
+      ],
+      "antonyms": [
+        "class",
+        "template"
+      ],
+      "collocations": [
+        "class instance",
+        "create instance",
+        "instance method",
+        "singleton instance"
+      ],
+      "wordFamily": [
+        "instantiate",
+        "instantiation"
+      ],
+      "note": "از یک کلاس می‌توان چندین نمونه ساخت",
+      "trap": "instance و object تقریباً مترادف هستند ولی instance بیشتر در OOP استفاده می‌شود",
+      "tags": [
+        "programming",
+        "OOP"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "interface",
+      "translation": "رابط",
+      "ipa": "/ˈɪntərfeɪs/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "مرز مشترک بین دو سیستم یا کامپوننت",
+      "definitions": [
+        "a shared boundary between two components or systems",
+        "a contract that defines what methods a class must implement"
+      ],
+      "examples": [
+        "The user interface is intuitive.",
+        "Define an interface for the service layer."
+      ],
+      "synonyms": [
+        "API",
+        "boundary",
+        "contract"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "user interface",
+        "API interface",
+        "interface design",
+        "programming interface"
+      ],
+      "wordFamily": [
+        "interfacing",
+        "interfaced"
+      ],
+      "note": "interface هم در طراحی UI و هم در OOP معنی دارد",
+      "trap": "interface و abstract class فرق دارند — interface فقط قرارداد است، abstract class می‌تواند پیاده‌سازی داشته باشد",
+      "tags": [
+        "programming",
+        "OOP",
+        "UI",
+        "architecture"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "iterate",
+      "translation": "تکرار کردن",
+      "ipa": "/ˈɪtəreɪt/",
+      "partOfSpeech": "verb",
+      "coreMeaning": "پیمایش و پردازش عناصر یک مجموعه یکی یکی",
+      "definitions": [
+        "to repeat a process over a collection of elements",
+        "to traverse through items in a data structure"
+      ],
+      "examples": [
+        "Iterate through the array using a for loop.",
+        "The algorithm iterates until convergence."
+      ],
+      "synonyms": [
+        "loop",
+        "traverse",
+        "cycle",
+        "repeat"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "iterate over",
+        "iterate through",
+        "iteration count",
+        "iterate and modify"
+      ],
+      "wordFamily": [
+        "iteration",
+        "iterator",
+        "iterative"
+      ],
+      "note": "در پایتون از for و در جاوااسکریپت از forEach استفاده می‌شود",
+      "trap": "iterate و loop مترادف هستند ولی iterate رسمی‌تر و دقیق‌تر است",
+      "tags": [
+        "programming",
+        "data-structures",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "JavaScript",
+      "translation": "جاوااسکریپت",
+      "ipa": "/ˈdʒɑːvəskrɪpt/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "زبان برنامه‌نویسی اصلی وب برای تعامل و رفتار صفحات",
+      "definitions": [
+        "a programming language primarily used for web development",
+        "the scripting language that makes web pages interactive"
+      ],
+      "examples": [
+        "JavaScript runs in the browser.",
+        "Write the logic in JavaScript."
+      ],
+      "synonyms": [
+        "JS",
+        "ECMAScript"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "JavaScript framework",
+        "vanilla JavaScript",
+        "JavaScript engine",
+        "JavaScript library"
+      ],
+      "wordFamily": [
+        "JavaScripter",
+        "JS-based"
+      ],
+      "note": "جاوااسکریپت با جاوا کاملاً متفاوت است — فقط اسم شبیه هم دارند",
+      "trap": "JavaScript ≠ Java — دو زبان کاملاً متفاوت هستند",
+      "tags": [
+        "programming",
+        "web",
+        "javascript",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "JSON",
+      "translation": "جی‌سان",
+      "ipa": "/ˈdʒeɪsən/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "فرمت سبک متنی برای تبادل داده بین سرور و کلاینت",
+      "definitions": [
+        "JavaScript Object Notation — a lightweight data-interchange format",
+        "a text format for representing structured data based on JavaScript syntax"
+      ],
+      "examples": [
+        "The API returns data in JSON format.",
+        "Parse the JSON string into an object."
+      ],
+      "synonyms": [
+        "data interchange format"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "JSON file",
+        "JSON format",
+        "JSON parser",
+        "JSON data"
+      ],
+      "wordFamily": [
+        "javascript",
+        "notation"
+      ],
+      "note": "JSON مستقل از زبان است — اگرچه از جاوااسکریپت آمده ولی همه زبان‌ها از آن استفاده می‌کنند",
+      "trap": "JSON فقط داده است — توابع یا کامنت نمی‌تواند داشته باشد",
+      "tags": [
+        "data",
+        "web",
+        "API",
+        "format"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "kernel",
+      "translation": "هسته",
+      "ipa": "/ˈkɜːrnl/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "هسته مرکزی سیستم‌عامل که منابع سخت‌افزاری را مدیریت می‌کند",
+      "definitions": [
+        "the core component of an operating system",
+        "the part of the OS that manages hardware resources and system calls"
+      ],
+      "examples": [
+        "The kernel manages system resources.",
+        "Linux kernel is open source."
+      ],
+      "synonyms": [
+        "core",
+        "nucleus"
+      ],
+      "antonyms": [
+        "shell",
+        "user-space"
+      ],
+      "collocations": [
+        "Linux kernel",
+        "kernel module",
+        "kernel space",
+        "kernel panic"
+      ],
+      "wordFamily": [
+        "kernel-level",
+        "kernel-space"
+      ],
+      "note": "هسته اولین برنامه‌ای است که هنگام روشن شدن کامپیوتر اجرا می‌شود",
+      "trap": "kernel panic مثل صفحه آبی مرگ ویندوز است — خطا در هسته",
+      "tags": [
+        "operating-system",
+        "system",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "library",
+      "translation": "کتابخانه",
+      "ipa": "/ˈlaɪbreri/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "مجموعه‌ای از کدهای از پیش نوشته‌شده برای استفاده مجدد",
+      "definitions": [
+        "a collection of pre-written code that developers can use",
+        "a set of reusable functions and classes packaged for distribution"
+      ],
+      "examples": [
+        "Install the library with npm.",
+        "This library simplifies HTTP requests."
+      ],
+      "synonyms": [
+        "package",
+        "module",
+        "package"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "JavaScript library",
+        "standard library",
+        "library dependency",
+        "open-source library"
+      ],
+      "wordFamily": [
+        "librarian"
+      ],
+      "note": "library فقط ابزار می‌دهد — کنترل جریان با شماست (برخلاف framework)",
+      "trap": "با framework فرق دارد — library را شما صدا می‌زنید، framework شما را صدا می‌زند",
+      "tags": [
+        "programming",
+        "development",
+        "package-management"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "load balancing",
+      "translation": "متعادل‌سازی بار",
+      "ipa": "/loʊd ˈbælənsɪŋ/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "توزیع ترافیک بین چند سرور برای جلوگیری از اضافه‌بار",
+      "definitions": [
+        "distributing network traffic across multiple servers",
+        "a technique to ensure no single server is overwhelmed with requests"
+      ],
+      "examples": [
+        "Load balancing distributes traffic across servers.",
+        "Use a load balancer for high availability."
+      ],
+      "synonyms": [
+        "traffic distribution",
+        "work distribution"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "load balancer",
+        "load balancing algorithm",
+        "round-robin load balancing"
+      ],
+      "wordFamily": [
+        "load-balanced",
+        "load-balancer"
+      ],
+      "note": "باربندی باعث افزایش دسترس‌پذیری و عملکرد می‌شود",
+      "trap": "فقط ترافیک وب نیست — در هر سیستم توزیع‌شده‌ای کاربرد دارد",
+      "tags": [
+        "infrastructure",
+        "networking",
+        "performance"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "localhost",
+      "translation": "میزبان محلی",
+      "ipa": "/ˈloʊkəlhoʊst/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "نام میزبان استاندارد برای اشاره به ماشین خودتان",
+      "definitions": [
+        "the standard hostname that refers to the local machine",
+        "the loopback address (127.0.0.1) used to access services running locally"
+      ],
+      "examples": [
+        "Run the server on localhost:3000.",
+        "Access the app at http://localhost."
+      ],
+      "synonyms": [
+        "local machine",
+        "loopback"
+      ],
+      "antonyms": [
+        "remote server"
+      ],
+      "collocations": [
+        "localhost server",
+        "localhost port",
+        "localhost address"
+      ],
+      "wordFamily": [
+        "local",
+        "hosting"
+      ],
+      "note": "localhost همیشه به 127.0.0.1 resolve می‌شود",
+      "trap": "localhost فقط روی ماشین خودتان قابل دسترسی است — دیگران نمی‌بینند",
+      "tags": [
+        "networking",
+        "development"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "loop",
+      "translation": "حلقه",
+      "ipa": "/luːp/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "ساختاری که یک بلوک کد را بارها اجرا می‌کند",
+      "definitions": [
+        "a sequence of instructions that repeats until a condition is met",
+        "a control structure for executing code multiple times"
+      ],
+      "examples": [
+        "Use a loop to process each item in the array.",
+        "The infinite loop crashed the program."
+      ],
+      "synonyms": [
+        "iteration",
+        "cycle",
+        "repetition"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "for loop",
+        "while loop",
+        "infinite loop",
+        "loop iteration"
+      ],
+      "wordFamily": [
+        "looping",
+        "loopy"
+      ],
+      "note": "سه نوع اصلی حلقه: for، while، do-while",
+      "trap": "حلقه بی‌نهایت برنامه را هنگ می‌کند — همیشه شرط خروج داشته باشید",
+      "tags": [
+        "programming",
+        "control-flow",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "malloc",
+      "translation": "تخصیص حافظه",
+      "ipa": "/ˈmælɑːk/",
+      "partOfSpeech": "verb",
+      "coreMeaning": "تخصیص دستی حافظه در زبان C",
+      "definitions": [
+        "to allocate memory dynamically in C/C++",
+        "to request a block of memory from the heap at runtime"
+      ],
+      "examples": [
+        "Use malloc to allocate memory in C.",
+        "Don't forget to free memory allocated with malloc."
+      ],
+      "synonyms": [
+        "allocate",
+        "reserve"
+      ],
+      "antonyms": [
+        "free",
+        "deallocate"
+      ],
+      "collocations": [
+        "malloc function",
+        "malloc and free",
+        "dynamic allocation"
+      ],
+      "wordFamily": [
+        "allocation",
+        "allocator"
+      ],
+      "note": "malloc حافظه را صفر نمی‌کند — calloc صفر می‌کند",
+      "trap": "فراموش کردن free() باعث نشت حافظه (memory leak) می‌شود",
+      "tags": [
+        "memory",
+        "C",
+        "system"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "merge",
+      "translation": "ادغام کردن",
+      "ipa": "/mɜːrdʒ/",
+      "partOfSpeech": "verb",
+      "coreMeaning": "ترکیب تغییرات از دو شاخه یا مجموعه داده",
+      "definitions": [
+        "to combine changes from different branches or datasets",
+        "to integrate separate streams of work into one"
+      ],
+      "examples": [
+        "Merge the feature branch into main.",
+        "Merge the two sorted arrays."
+      ],
+      "synonyms": [
+        "combine",
+        "integrate",
+        "unify"
+      ],
+      "antonyms": [
+        "split",
+        "separate",
+        "branch"
+      ],
+      "collocations": [
+        "merge conflict",
+        "merge branch",
+        "merge sort",
+        "pull request merge"
+      ],
+      "wordFamily": [
+        "merger"
+      ],
+      "note": "در Git، ادغام ممکن است conflict ایجاد کند که باید دستی حل شود",
+      "conflict": "با rebase اشتباه نگیرید — merge تاریخچه را حفظ می‌کند، rebase بازنویسی می‌کند",
+      "tags": [
+        "version-control",
+        "git",
+        "programming"
+      ],
+      "source": "computer",
+      "trap": "با rebase اشتباه نگیرید — merge تاریخچه را حفظ می‌کند، rebase بازنویسی می‌کند"
+    },
+    {
+      "word": "method",
+      "translation": "متد",
+      "ipa": "/ˈmeθəd/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "تابعی که به یک شیء یا کلاس تعلق دارد",
+      "definitions": [
+        "a function associated with an object or class",
+        "a behavior that an object can perform"
+      ],
+      "examples": [
+        "Call the method on the object.",
+        "Override the parent class method."
+      ],
+      "synonyms": [
+        "function",
+        "procedure",
+        "routine"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "instance method",
+        "class method",
+        "built-in method",
+        "method chaining"
+      ],
+      "wordFamily": [
+        "methodology",
+        "methodical"
+      ],
+      "note": "method به شیء وابسته است ولی function مستقل است",
+      "trap": "با function فرق دارد — method باید روی شیء صدا زده شود",
+      "tags": [
+        "programming",
+        "OOP",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "middleware",
+      "translation": "میان‌افزار",
+      "ipa": "/ˈmɪdərwer/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "نرم‌افزاری که بین سیستم‌عامل و برنامه‌ها قرار می‌گیرد",
+      "definitions": [
+        "software that bridges the gap between an OS and applications",
+        "a layer that processes requests before they reach the final handler"
+      ],
+      "examples": [
+        "Middleware processes requests before handlers.",
+        "Add authentication middleware to the pipeline."
+      ],
+      "synonyms": [
+        "intermediary",
+        "bridge layer"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "middleware layer",
+        "authentication middleware",
+        "Express middleware",
+        "middleware pipeline"
+      ],
+      "wordFamily": [
+        "middle",
+        "ware"
+      ],
+      "note": "در Express.js، middleware قبل از handler اجرا می‌شود",
+      "trap": "middleware می‌تواند درخواست را متوقف کند — اگر next() صدا زده نشود",
+      "tags": [
+        "architecture",
+        "web",
+        "server"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "module",
+      "translation": "ماژول",
+      "ipa": "/ˈmɑːdʒuːl/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "واحد مستقل و خودcontained از کد قابل import",
+      "definitions": [
+        "a self-contained component of a larger software system",
+        "a file or unit of code that can be imported and used elsewhere"
+      ],
+      "examples": [
+        "Import the module at the top of the file.",
+        "Each module handles a specific feature."
+      ],
+      "synonyms": [
+        "package",
+        "component",
+        "unit"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "ES module",
+        "node module",
+        "module system",
+        "module export"
+      ],
+      "wordFamily": [
+        "modular",
+        "modularity"
+      ],
+      "note": "ماژول‌ها کد را سازمان‌یافته و قابل نگهداری می‌کنند",
+      "trap": "CommonJS و ESM دو سیستم ماژول متفاوت در جاوااسکریپت هستند",
+      "tags": [
+        "programming",
+        "architecture"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "namespace",
+      "translation": "فضای نام",
+      "ipa": "/ˈneɪmspeɪs/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "容器ی منطقی برای جلوگیری از تداخل نام‌ها",
+      "definitions": [
+        "a container for a set of identifiers to avoid naming conflicts",
+        "a declarative region that provides a scope to names"
+      ],
+      "examples": [
+        "Use namespaces to avoid naming conflicts.",
+        "The namespace groups related classes together."
+      ],
+      "synonyms": [
+        "scope",
+        "context",
+        "container"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "global namespace",
+        "namespace pollution",
+        "XML namespace",
+        "namespace declaration"
+      ],
+      "wordFamily": [
+        "name",
+        "spacing"
+      ],
+      "note": "در جاوااسکریپت، namespace pollution وقتی است که نام‌های زیادی در فضای سراسری باشند",
+      "trap": "namespace و scope یکی نیستند — namespace برای نام‌گذاری است، scope برای دسترسی",
+      "tags": [
+        "programming",
+        "architecture"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "network",
+      "translation": "شبکه",
+      "ipa": "/ˈnetwɜːrk/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "گروهی از کامپیوترهای متصل به هم برای اشتراک‌گذاری منابع",
+      "definitions": [
+        "a group of connected computers that share resources",
+        "a system of interconnected devices for data communication"
+      ],
+      "examples": [
+        "Connect to the network.",
+        "The network topology affects performance."
+      ],
+      "synonyms": [
+        "LAN",
+        "WAN",
+        "grid"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "network connection",
+        "network security",
+        "local network",
+        "network protocol"
+      ],
+      "wordFamily": [
+        "networking",
+        "interconnected"
+      ],
+      "note": "شبکه‌ها از نظر اندازه به LAN، WAN و MAN تقسیم می‌شوند",
+      "trap": "network و internet یکی نیستند — اینترنت شبکه‌ای از شبکه‌هاست",
+      "tags": [
+        "networking",
+        "fundamental",
+        "infrastructure"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "node",
+      "translation": "گره",
+      "ipa": "/noʊd/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "نقطه‌ای اتصال در شبکه یا ساختار داده",
+      "definitions": [
+        "a point of connection in a network or data structure",
+        "an individual element in a tree or graph"
+      ],
+      "examples": [
+        "Each node processes data independently.",
+        "Add a new node to the cluster."
+      ],
+      "synonyms": [
+        "point",
+        "vertex",
+        "endpoint"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "node server",
+        "leaf node",
+        "root node",
+        "Node.js"
+      ],
+      "wordFamily": [
+        "nodal",
+        "node-based"
+      ],
+      "note": "Node.js یک runtime جاوااسکریپت سمت سرور است",
+      "trap": "node در شبکه، درخت، و Node.js معانی متفاوت دارد — context مهم است",
+      "tags": [
+        "networking",
+        "data-structures",
+        "javascript"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "object",
+      "translation": "شیء",
+      "ipa": "/ˈɑːbdʒekt/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "نمونه‌ای از کلاس با ویژگی‌ها و رفتارهای مشخص",
+      "definitions": [
+        "an instance of a class in OOP that contains data and behavior",
+        "a data structure with properties and methods"
+      ],
+      "examples": [
+        "Create an object with properties.",
+        "The object stores user information."
+      ],
+      "synonyms": [
+        "instance",
+        "entity"
+      ],
+      "antonyms": [
+        "class"
+      ],
+      "collocations": [
+        "object-oriented",
+        "JSON object",
+        "DOM object",
+        "object property"
+      ],
+      "wordFamily": [
+        "object-oriented",
+        "objective"
+      ],
+      "note": "در جاوااسکریپت، تقریباً همه چیز object است",
+      "trap": "object و class یکی نیستند — class الگو است، object نمونه واقعی",
+      "tags": [
+        "programming",
+        "OOP",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "optimize",
+      "translation": "بهینه‌سازی کردن",
+      "ipa": "/ˈɑːptɪmaɪz/",
+      "partOfSpeech": "verb",
+      "coreMeaning": "بهبود عملکرد کد یا سیستم",
+      "definitions": [
+        "to make code or a system as efficient as possible",
+        "to improve performance by reducing resource usage"
+      ],
+      "examples": [
+        "Optimize the code for better performance.",
+        "Optimize images for faster loading."
+      ],
+      "synonyms": [
+        "improve",
+        "enhance",
+        "refine",
+        "streamline"
+      ],
+      "antonyms": [
+        "degrade",
+        "worsen"
+      ],
+      "collocations": [
+        "optimize performance",
+        "optimize code",
+        "query optimization",
+        "premature optimization"
+      ],
+      "wordFamily": [
+        "optimization",
+        "optimizer",
+        "optimal"
+      ],
+      "note": "بهینه‌سازی زودرس (premature optimization) می‌تواند کد را پیچیده و غیرقابل نگهداری کند",
+      "trap": "\"Premature optimization is the root of all evil\" — اول درست کار کند، بعد سریع",
+      "tags": [
+        "performance",
+        "programming",
+        "development"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "overflow",
+      "translation": "سرریز",
+      "ipa": "/ˌoʊvərˈfloʊ/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "وقتی داده بیشتر از ظرفیت مخزن باشد",
+      "definitions": [
+        "excess data beyond a container's allocated capacity",
+        "a condition where a value exceeds the maximum that can be stored"
+      ],
+      "examples": [
+        "Buffer overflow is a security risk.",
+        "Integer overflow causes unexpected values."
+      ],
+      "synonyms": [
+        "overrun",
+        "excess"
+      ],
+      "antonyms": [
+        "underflow"
+      ],
+      "collocations": [
+        "buffer overflow",
+        "stack overflow",
+        "integer overflow",
+        "overflow error"
+      ],
+      "wordFamily": [
+        "overflowing"
+      ],
+      "note": "سرریز بافر یکی از رایج‌ترین آسیب‌پذیری‌های امنیتی است",
+      "trap": "Stack Overflow فقط سایت نیست — خطای سرریز پشته واقعی و خطرناک است",
+      "tags": [
+        "security",
+        "memory",
+        "error"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "package",
+      "translation": "پکیج",
+      "ipa": "/ˈpækɪdʒ/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "بسته‌ای از کد که به صورت یکجا توزیع می‌شود",
+      "definitions": [
+        "a bundle of code and resources distributed together",
+        "a unit of software that can be installed and managed"
+      ],
+      "examples": [
+        "Install the package with pip.",
+        "Publish your package to npm."
+      ],
+      "synonyms": [
+        "library",
+        "module",
+        "bundle"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "package manager",
+        "npm package",
+        "install package",
+        "package.json"
+      ],
+      "wordFamily": [
+        "packaging"
+      ],
+      "note": "package.json فایل اصلی پروژه‌های Node.js است",
+      "trap": "package و library مترادف نیستند — package می‌تواند چندین library داشته باشد",
+      "tags": [
+        "package-management",
+        "development"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "parameter",
+      "translation": "پارامتر",
+      "ipa": "/pəˈræmɪtər/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "مقداری که به تابع پاس داده می‌شود",
+      "definitions": [
+        "a value passed into a function when it is called",
+        "a variable in a function definition that receives an argument"
+      ],
+      "examples": [
+        "Pass the parameter to the function.",
+        "The function accepts three parameters."
+      ],
+      "synonyms": [
+        "argument",
+        "input",
+        "variable"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "function parameter",
+        "default parameter",
+        "optional parameter",
+        "parameter passing"
+      ],
+      "wordFamily": [
+        "parameterize"
+      ],
+      "note": "parameter در تعریف تابع و argument هنگام صدا زدن است",
+      "trap": "parameter و argument فرق دارند — parameter نام است، argument مقدار",
+      "tags": [
+        "programming",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "parser",
+      "translation": "تجزیه‌گر",
+      "ipa": "/ˈpɑːrsər/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "برنامه‌ای که ساختار داده را تجزیه و تحلیل می‌کند",
+      "definitions": [
+        "a program that analyzes syntax and converts data into a structured format",
+        "a component that breaks input into meaningful tokens"
+      ],
+      "examples": [
+        "The JSON parser converts text to objects.",
+        "Use an HTML parser to extract data."
+      ],
+      "synonyms": [
+        "analyzer",
+        "interpreter"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "JSON parser",
+        "HTML parser",
+        "syntax parser",
+        "parser error"
+      ],
+      "wordFamily": [
+        "parse",
+        "parsing"
+      ],
+      "note": "مرورگرها از parser برای تفسیر HTML و CSS استفاده می‌کنند",
+      "trap": "parser می‌تواند ورودی نامعتبر را reject کند — همیشه خطا مدیریت کنید",
+      "tags": [
+        "programming",
+        "compilers",
+        "data"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "payload",
+      "translation": "داده ارسالی",
+      "ipa": "/ˈpeɪloʊd/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "داده‌ای که در یک درخواست یا بسته شبکه حمل می‌شود",
+      "definitions": [
+        "the actual data carried in a request or network packet",
+        "the content portion of a transmission, excluding headers"
+      ],
+      "examples": [
+        "The request payload contains user data.",
+        "Check the payload size before sending."
+      ],
+      "synonyms": [
+        "body",
+        "data",
+        "content"
+      ],
+      "antonyms": [
+        "header",
+        "metadata"
+      ],
+      "collocations": [
+        "request payload",
+        "payload size",
+        "JSON payload",
+        "payload data"
+      ],
+      "wordFamily": [
+        "pay",
+        "load"
+      ],
+      "note": "payload بخش اصلی داده است بدون header و metadata",
+      "trap": "payload و body مترادف هستند ولی payload مفهوم گسترده‌تری دارد",
+      "tags": [
+        "API",
+        "networking",
+        "web"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "pixel",
+      "translation": "پیکسل",
+      "ipa": "/ˈpɪksl/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "کوچک‌ترین واحد قابل آدرس‌دهی در تصویر دیجیتال",
+      "definitions": [
+        "the smallest unit of a digital image",
+        "a single point in a raster display"
+      ],
+      "examples": [
+        "The image is 1920 pixels wide.",
+        "Each pixel has RGB color values."
+      ],
+      "synonyms": [
+        "dot",
+        "pel"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "pixel density",
+        "pixel art",
+        "pixel resolution",
+        "per pixel"
+      ],
+      "wordFamily": [
+        "pixelated"
+      ],
+      "note": "واژه pixel از ترکیب picture + element ساخته شده",
+      "trap": "resolution بالا لزوماً کیفیت بالا نیست — اندازه صفحه هم مهم است",
+      "tags": [
+        "graphics",
+        "display",
+        "imaging"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "pointer",
+      "translation": "اشاره‌گر",
+      "ipa": "/ˈpɔɪntər/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "متغیری که آدرس حافظه را ذخیره می‌کند",
+      "definitions": [
+        "a variable that stores the memory address of another variable",
+        "a reference to a location in memory"
+      ],
+      "examples": [
+        "A pointer stores a memory address.",
+        "Dereference the pointer to get the value."
+      ],
+      "synonyms": [
+        "reference",
+        "address"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "null pointer",
+        "pointer arithmetic",
+        "smart pointer",
+        "function pointer"
+      ],
+      "wordFamily": [
+        "point"
+      ],
+      "note": "اشاره‌گرها قدرتمند ولی خطرناک هستند — اشاره‌گر نادرست = خرابی حافظه",
+      "trap": "اشاره‌گر null باعث crash می‌شود — همیشه قبل از استفاده چک کنید",
+      "tags": [
+        "memory",
+        "C",
+        "system",
+        "programming"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "polling",
+      "translation": "پرسش متناوب",
+      "ipa": "/ˈpoʊlɪŋ/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "بررسی متناوب وضعیت برای تشخیص تغییرات",
+      "definitions": [
+        "repeatedly checking for a condition or new data at intervals",
+        "a technique where a client periodically requests updates from a server"
+      ],
+      "examples": [
+        "Polling checks for updates at regular intervals.",
+        "Use polling to monitor the server status."
+      ],
+      "synonyms": [
+        "checking",
+        "probing"
+      ],
+      "antonyms": [
+        "push",
+        "webhook"
+      ],
+      "collocations": [
+        "polling interval",
+        "polling rate",
+        "long polling",
+        "polling mechanism"
+      ],
+      "wordFamily": [
+        "poll"
+      ],
+      "note": "polling ساده ولی ناکارآمد است — بیشتر از webhook یا WebSocket استفاده کنید",
+      "trap": "polling با رأی‌گیری (election polling) فرق دارد — اینجا فنی است",
+      "tags": [
+        "networking",
+        "architecture",
+        "real-time"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "port",
+      "translation": "پورت",
+      "ipa": "/pɔːrt/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "نقطه پایانی ارتباطی که سرویس‌ها روی آن گوش می‌دهند",
+      "definitions": [
+        "an endpoint for communication that identifies a specific process or service",
+        "a logical address used to direct network traffic to the right application"
+      ],
+      "examples": [
+        "The server listens on port 8080.",
+        "Open port 443 for HTTPS traffic."
+      ],
+      "synonyms": [
+        "endpoint",
+        "socket"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "port number",
+        "port forwarding",
+        "open port",
+        "port 80"
+      ],
+      "wordFamily": [
+        "portable",
+        "portal"
+      ],
+      "note": "پورت‌های 0-1023 رزرو شده هستند (port 80 = HTTP، 443 = HTTPS)",
+      "trap": "port فیزیکی (مثل USB) و port منطقی (شبکه) متفاوت هستند",
+      "tags": [
+        "networking",
+        "system",
+        "infrastructure"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "process",
+      "translation": "پردازش",
+      "ipa": "/ˈprɑːses/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "نمونه‌ای از یک برنامه در حال اجرا با فضای حافظه مستقل",
+      "definitions": [
+        "an instance of a running program with its own memory space",
+        "an independent unit of execution managed by the OS"
+      ],
+      "examples": [
+        "Each process has its own memory space.",
+        "Monitor running processes with Task Manager."
+      ],
+      "synonyms": [
+        "task",
+        "program",
+        "job"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "process management",
+        "background process",
+        "child process",
+        "process ID"
+      ],
+      "wordFamily": [
+        "processing",
+        "processor"
+      ],
+      "note": "process و thread فرق دارند — process حافظه مستقل دارد، thread حافظه مشترک",
+      "trap": "با thread اشتباه نگیرید — process سنگین‌تر ولی ایزوله‌تر است",
+      "tags": [
+        "operating-system",
+        "system",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "protocol",
+      "translation": "پروتکل",
+      "ipa": "/ˈproʊtəkɔːl/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "مجموعه قوانینی برای تبادل داده بین دستگاه‌ها",
+      "definitions": [
+        "a set of rules governing data exchange between devices",
+        "a standard that defines how communication happens"
+      ],
+      "examples": [
+        "TCP/IP is a network protocol.",
+        "Follow the HTTP protocol for web requests."
+      ],
+      "synonyms": [
+        "standard",
+        "specification",
+        "convention"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "network protocol",
+        "communication protocol",
+        "protocol stack",
+        "protocol layer"
+      ],
+      "wordFamily": [
+        "protocological"
+      ],
+      "note": "پروتکل‌ها در لایه‌های مختلف مدل OSI کار می‌کنند",
+      "trap": "protocol و API فرق دارند — protocol قوانین ارتباط است، API رابط برنامه‌نویسی",
+      "tags": [
+        "networking",
+        "fundamental",
+        "communication"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "query",
+      "translation": "پرس‌وجو",
+      "ipa": "/ˈkwɪri/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "درخواستی برای بازیابی اطلاعات از پایگاه داده",
+      "definitions": [
+        "a request for information from a database",
+        "a statement that retrieves or manipulates data"
+      ],
+      "examples": [
+        "Write a SQL query to fetch data.",
+        "Optimize the query for better performance."
+      ],
+      "synonyms": [
+        "request",
+        "inquiry",
+        "search"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "SQL query",
+        "query language",
+        "query optimization",
+        "query parameter"
+      ],
+      "wordFamily": [
+        "querying"
+      ],
+      "note": "کوئری بد نوشته‌شده می‌تواند کل دیتابیس را کند کند",
+      "trap": "query و request مترادف هستند ولی query معمولاً به دیتابیس مربوط است",
+      "tags": [
+        "database",
+        "SQL",
+        "data"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "queue",
+      "translation": "صف",
+      "ipa": "/kjuː/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "ساختار داده‌ای به صورت اول وارد، اول خارج (FIFO)",
+      "definitions": [
+        "a first-in-first-out (FIFO) data structure",
+        "a collection where elements are added at the back and removed from the front"
+      ],
+      "examples": [
+        "Add the task to the queue.",
+        "Process items from the queue one by one."
+      ],
+      "synonyms": [
+        "line",
+        "waiting list"
+      ],
+      "antonyms": [
+        "stack"
+      ],
+      "collocations": [
+        "job queue",
+        "message queue",
+        "priority queue",
+        "queue management"
+      ],
+      "wordFamily": [
+        "queuing",
+        "dequeuing"
+      ],
+      "note": "صف‌های پیام مثل RabbitMQ و Kafka در معماری میکروسرویس بسیار مهم هستند",
+      "trap": "با stack اشتباه نگیرید — queue FIFO است، stack LIFO",
+      "tags": [
+        "data-structures",
+        "programming",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "RAM",
+      "translation": "حافظه دسترسی تصادفی",
+      "ipa": "/ræm/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "حافظه موقت سریع که داده‌های در حال پردازش را نگه می‌دارد",
+      "definitions": [
+        "Random Access Memory — volatile memory for active data and programs",
+        "fast temporary storage that the CPU uses while a computer is running"
+      ],
+      "examples": [
+        "The app uses 4GB of RAM.",
+        "Add more RAM for better multitasking."
+      ],
+      "synonyms": [
+        "memory",
+        "main memory",
+        "primary memory"
+      ],
+      "antonyms": [
+        "storage",
+        "disk"
+      ],
+      "collocations": [
+        "RAM usage",
+        "RAM capacity",
+        "DDR RAM",
+        "RAM memory"
+      ],
+      "wordFamily": [
+        "random",
+        "access"
+      ],
+      "note": "RAM با خاموش شدن کامپیوتر پاک می‌شود — فرار است",
+      "trap": "RAM و storage فرق دارند — RAM موقت و سریع، storage دائمی و کند",
+      "tags": [
+        "hardware",
+        "memory",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "recursion",
+      "translation": "بازگشت",
+      "ipa": "/rɪˈkɜːrʒən/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "فراخوانی تابع خودش تا رسیدن به شرط پایان",
+      "definitions": [
+        "a process where a function calls itself",
+        "a technique where the solution to a problem depends on solutions to smaller instances"
+      ],
+      "examples": [
+        "Recursion is when a function calls itself.",
+        "Use recursion to traverse the tree structure."
+      ],
+      "synonyms": [
+        "self-reference",
+        "repetition"
+      ],
+      "antonyms": [
+        "iteration"
+      ],
+      "collocations": [
+        "recursion depth",
+        "recursive function",
+        "base case",
+        "recursive call"
+      ],
+      "wordFamily": [
+        "recursive",
+        "recursively"
+      ],
+      "note": "هر بازگشت باید شرط پایان (base case) داشته باشد وگرنه بی‌نهایت می‌شود",
+      "trap": "بازگشت بدون base case = سرریز پشته — همیشه شرط خروج بگذارید",
+      "tags": [
+        "programming",
+        "algorithms",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "repository",
+      "translation": "مخزن",
+      "ipa": "/rɪˈpɑːzətɔːri/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "محلی برای ذخیره و مدیریت کد و تغییرات آن",
+      "definitions": [
+        "a storage location for software packages or source code",
+        "a centralized place where code and its version history are maintained"
+      ],
+      "examples": [
+        "Push code to the repository.",
+        "Clone the repository from GitHub."
+      ],
+      "synonyms": [
+        "repo",
+        "archive",
+        "storage"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "Git repository",
+        "GitHub repository",
+        "local repository",
+        "remote repository"
+      ],
+      "wordFamily": [
+        "repositoried"
+      ],
+      "note": "repository مخفف repo بسیار رایج است",
+      "trap": "repo محلی و راه دور ممکن است همگام نباشند — push/pull کنید",
+      "tags": [
+        "version-control",
+        "git",
+        "development"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "request",
+      "translation": "درخواست",
+      "ipa": "/rɪˈkwest/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "پیامی از کلاینت به سرور برای دریافت یا ارسال داده",
+      "definitions": [
+        "a message sent from a client to a server asking for data or action",
+        "an HTTP message that initiates communication with a web server"
+      ],
+      "examples": [
+        "Send an HTTP request to the server.",
+        "The request contains headers and a body."
+      ],
+      "synonyms": [
+        "query",
+        "call",
+        "petition"
+      ],
+      "antonyms": [
+        "response"
+      ],
+      "collocations": [
+        "HTTP request",
+        "API request",
+        "request header",
+        "request body"
+      ],
+      "wordFamily": [
+        "requester"
+      ],
+      "note": "هر درخواست HTTP یک method دارد: GET، POST، PUT، DELETE",
+      "trap": "request و response زوج هستند — هر request باید یک response داشته باشد",
+      "tags": [
+        "web",
+        "API",
+        "networking",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "response",
+      "translation": "پاسخ",
+      "ipa": "/rɪˈspɑːns/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "پیامی از سرور به کلاینت حاوی نتیجه درخواست",
+      "definitions": [
+        "a reply from a server to a client's request",
+        "an HTTP message containing status, headers, and data"
+      ],
+      "examples": [
+        "The server returned a 200 response.",
+        "Parse the JSON response from the API."
+      ],
+      "synonyms": [
+        "reply",
+        "answer",
+        "result"
+      ],
+      "antonyms": [
+        "request"
+      ],
+      "collocations": [
+        "HTTP response",
+        "response code",
+        "response body",
+        "response time"
+      ],
+      "wordFamily": [
+        "respond",
+        "responsible"
+      ],
+      "note": "کد وضعیت 200 موفقیت، 404 یافت نشد، 500 خطای سرور",
+      "trap": "response time مهم‌ترین معیار عملکرد API است",
+      "tags": [
+        "web",
+        "API",
+        "networking"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "runtime",
+      "translation": "زمان اجرا",
+      "ipa": "/ˈrʌntaɪm/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "دوره‌ای که برنامه در حال اجرا است",
+      "definitions": [
+        "the period during which a program is running",
+        "the environment in which a program executes"
+      ],
+      "examples": [
+        "The error occurs at runtime.",
+        "Node.js is a JavaScript runtime."
+      ],
+      "synonyms": [
+        "execution time",
+        "run-time"
+      ],
+      "antonyms": [
+        "compile time"
+      ],
+      "collocations": [
+        "runtime error",
+        "runtime environment",
+        "runtime performance",
+        "compile time vs runtime"
+      ],
+      "wordFamily": [
+        "run",
+        "running"
+      ],
+      "note": "خطای زمان اجرا فقط هنگام اجرای برنامه ظاهر می‌شود نه هنگام کامپایل",
+      "trap": "runtime error و compile error فرق دارند — compile قبل از اجرا، runtime حین اجرا",
+      "tags": [
+        "programming",
+        "execution",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "schema",
+      "translation": "طرح، الگو",
+      "ipa": "/ˈskiːmə/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "ساختار و سازمان‌دهی پایگاه داده",
+      "definitions": [
+        "the structure or organization of a database",
+        "a blueprint that defines tables, fields, and relationships"
+      ],
+      "examples": [
+        "Define the database schema first.",
+        "The schema defines the structure of the data."
+      ],
+      "synonyms": [
+        "blueprint",
+        "structure",
+        "model"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "database schema",
+        "schema design",
+        "schema migration",
+        "JSON schema"
+      ],
+      "wordFamily": [
+        "schematic"
+      ],
+      "note": "طرح‌ریزی خوب پایگاه داده پایه و اساس هر برنامه موفق است",
+      "trap": "schema migration بعد از تولید سخت‌تر است — از اول خوب طراحی کنید",
+      "tags": [
+        "database",
+        "design",
+        "architecture"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "scope",
+      "translation": "دامنه",
+      "ipa": "/skoʊp/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "محدوده‌ای از کد که یک متغیر قابل دسترسی است",
+      "definitions": [
+        "the region of code where a variable is accessible",
+        "the context that determines variable visibility and lifetime"
+      ],
+      "examples": [
+        "Variables have function scope.",
+        "The variable is out of scope here."
+      ],
+      "synonyms": [
+        "context",
+        "range",
+        "extent"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "global scope",
+        "local scope",
+        "scope chain",
+        "block scope"
+      ],
+      "wordFamily": [
+        "scoped",
+        "scoping"
+      ],
+      "note": "در جاوااسکریپت، let و const block scope دارند ولی var function scope",
+      "trap": "scope leak وقتی است که متغیر بی‌دلیل در scope گسترده‌تری تعریف شود",
+      "tags": [
+        "programming",
+        "variables",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "script",
+      "translation": "اسکریپت",
+      "ipa": "/skrɪpt/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "فایلی حاوی دستورات که توسط مفسر اجرا می‌شود",
+      "definitions": [
+        "a file containing instructions that are interpreted and executed",
+        "a program written in a scripting language"
+      ],
+      "examples": [
+        "Run the setup script.",
+        "Write a script to automate the task."
+      ],
+      "synonyms": [
+        "program",
+        "automation",
+        "code file"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "shell script",
+        "Python script",
+        "script execution",
+        "automation script"
+      ],
+      "wordFamily": [
+        "scripting"
+      ],
+      "note": "اسکریپت‌ها معمولاً کامپایل نمی‌شوند — مستقیماً اجرا می‌شوند",
+      "trap": "script و program مترادف هستند ولی script معمولاً کوچک‌تر و تفسیری است",
+      "tags": [
+        "programming",
+        "automation"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "SDK",
+      "translation": "کیت توسعه نرم‌افزار",
+      "ipa": "/ˌes diː ˈkeɪ/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "مجموعه ابزارها و کتابخانه‌ها برای توسعه برنامه روی یک پلتفرم",
+      "definitions": [
+        "Software Development Kit — a collection of tools for building applications on a platform",
+        "a set of libraries, documentation, and APIs for a specific platform"
+      ],
+      "examples": [
+        "Download the Android SDK.",
+        "Use the SDK to integrate with the service."
+      ],
+      "synonyms": [
+        "development kit",
+        "toolkit"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "Android SDK",
+        "iOS SDK",
+        "SDK installation",
+        "SDK documentation"
+      ],
+      "wordFamily": [
+        "develop",
+        "development"
+      ],
+      "note": "SDK معمولاً شامل API، کتابخانه، شبیه‌ساز و مستندات است",
+      "trap": "SDK و API فرق دارند — SDK بسته کامل است، API فقط رابط",
+      "tags": [
+        "development",
+        "tools",
+        "platform"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "serialize",
+      "translation": "سریال‌سازی",
+      "ipa": "/ˈsɪriəlaɪz/",
+      "partOfSpeech": "verb",
+      "coreMeaning": "تبدیل شیء به فرمت قابل ذخیره یا انتقال",
+      "definitions": [
+        "to convert an object into a storable or transmittable format",
+        "to transform a data structure into a linear sequence of bytes"
+      ],
+      "examples": [
+        "Serialize the object to JSON.",
+        "The data is serialized before sending over the network."
+      ],
+      "synonyms": [
+        "encode",
+        "marshal",
+        "convert"
+      ],
+      "antonyms": [
+        "deserialize",
+        "unmarshal"
+      ],
+      "collocations": [
+        "serialize data",
+        "JSON serialization",
+        "serialization format",
+        "serializable object"
+      ],
+      "wordFamily": [
+        "serialization",
+        "serialized",
+        "deserialize"
+      ],
+      "note": "JSON و XML رایج‌ترین فرمت‌های سریال‌سازی هستند",
+      "trap": "همه اشیاء قابل سریال‌سازی نیستند — توابع و reference‌ها مشکل‌ساز هستند",
+      "tags": [
+        "programming",
+        "data",
+        "API"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "server",
+      "translation": "سرور",
+      "ipa": "/ˈsɜːrvər/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "کامپیوتری که خدمات و داده‌ها را به کلاینت‌ها ارائه می‌دهد",
+      "definitions": [
+        "a computer that provides data and services to other computers",
+        "a program that listens for and responds to client requests"
+      ],
+      "examples": [
+        "The server handles all requests.",
+        "Deploy the application to the server."
+      ],
+      "synonyms": [
+        "host",
+        "service provider"
+      ],
+      "antonyms": [
+        "client"
+      ],
+      "collocations": [
+        "web server",
+        "server-side",
+        "server configuration",
+        "server crash"
+      ],
+      "wordFamily": [
+        "serve",
+        "service",
+        "serving"
+      ],
+      "note": "سرور هم سخت‌افزار (کامپیوتر) و هم نرم‌افزار (برنامه) می‌تواند باشد",
+      "trap": "server و host مترادف نیستند — هر سروری host است ولی هر host‌ای سرور نیست",
+      "tags": [
+        "networking",
+        "infrastructure",
+        "web",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "socket",
+      "translation": "سوکت",
+      "ipa": "/ˈsɑːkɪt/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "نقطه پایانی ارتباطی برای ارسال و دریافت داده",
+      "definitions": [
+        "an endpoint for sending and receiving data over a network",
+        "a software interface for network communication"
+      ],
+      "examples": [
+        "WebSockets enable real-time communication.",
+        "Create a TCP socket for the connection."
+      ],
+      "synonyms": [
+        "endpoint",
+        "port"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "WebSocket",
+        "TCP socket",
+        "socket connection",
+        "socket programming"
+      ],
+      "wordFamily": [
+        "socket-based"
+      ],
+      "note": "WebSocket ارتباط دوطرفه دائمی بین کلاینت و سرور برقرار می‌کند",
+      "trap": "socket فیزیکی (پریز برق) و socket شبکه متفاوت هستند",
+      "tags": [
+        "networking",
+        "real-time",
+        "programming"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "stack",
+      "translation": "پشته",
+      "ipa": "/stæk/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "ساختار داده‌ای به صورت آخر وارد، اول خارج (LIFO)",
+      "definitions": [
+        "a last-in-first-out (LIFO) data structure",
+        "a collection where elements are added and removed from the top"
+      ],
+      "examples": [
+        "The call stack tracks function calls.",
+        "Push the value onto the stack."
+      ],
+      "synonyms": [
+        "pile",
+        "heap"
+      ],
+      "antonyms": [
+        "queue"
+      ],
+      "collocations": [
+        "call stack",
+        "stack overflow",
+        "stack trace",
+        "stack frame"
+      ],
+      "wordFamily": [
+        "stacked",
+        "stacking"
+      ],
+      "note": "call stack فراخوانی توابع را ردیابی می‌کند — هر فراخوانی یک frame اضافه می‌کند",
+      "trap": "stack و heap هر دو حافظه هستند ولی stack خودکار و heap پویا",
+      "tags": [
+        "data-structures",
+        "programming",
+        "memory",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "string",
+      "translation": "رشته",
+      "ipa": "/strɪŋ/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "توالی‌ای از کاراکترها برای نمایش متن",
+      "definitions": [
+        "a sequence of characters representing text",
+        "a data type used to store and manipulate textual data"
+      ],
+      "examples": [
+        "Concatenate two strings together.",
+        "The string contains special characters."
+      ],
+      "synonyms": [
+        "text",
+        "character sequence"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "string manipulation",
+        "string length",
+        "empty string",
+        "string format"
+      ],
+      "wordFamily": [
+        "stringify",
+        "substring"
+      ],
+      "note": "رشته‌ها در اکثر زبان‌ها غیرقابل تغییر (immutable) هستند",
+      "trap": "string و number را با هم مقایسه نکنید — اول type conversion انجام دهید",
+      "tags": [
+        "programming",
+        "data-types",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "syntax",
+      "translation": "سینتکس، نحو",
+      "ipa": "/ˈsɪntæks/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "قواعد ساختاری زبان برنامه‌نویسی",
+      "definitions": [
+        "the rules governing the structure of code in a programming language",
+        "the grammatical rules that define how statements must be written"
+      ],
+      "examples": [
+        "Check the code for syntax errors.",
+        "Python has a clean and readable syntax."
+      ],
+      "synonyms": [
+        "grammar",
+        "structure",
+        "notation"
+      ],
+      "antonyms": [
+        "semantics"
+      ],
+      "collocations": [
+        "syntax error",
+        "syntax highlighting",
+        "syntax rules",
+        "syntax sugar"
+      ],
+      "wordFamily": [
+        "syntactic",
+        "syntactically"
+      ],
+      "note": "syntax خطا = کد اشتباه نوشته شده، semantic خطا = کد درست ولی منطق اشتباه",
+      "trap": "syntax و semantics فرق دارند — syntax شکل است، semantics معنی",
+      "tags": [
+        "programming",
+        "languages",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "thread",
+      "translation": "نخ",
+      "ipa": "/θred/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "کوچک‌ترین واحد اجرایی که حافظه را با process به اشتراک می‌گذارد",
+      "definitions": [
+        "the smallest unit of CPU execution within a process",
+        "a lightweight subprocess that shares memory with other threads"
+      ],
+      "examples": [
+        "Use threads for parallel processing.",
+        "The application runs on multiple threads."
+      ],
+      "synonyms": [
+        "strand",
+        "fiber",
+        "worker"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "multi-threading",
+        "thread pool",
+        "thread safety",
+        "main thread"
+      ],
+      "wordFamily": [
+        "threading",
+        "threaded"
+      ],
+      "note": "thread‌ها حافظه مشترک دارند — مراقب race condition باشید",
+      "trap": "thread و process فرق دارند — thread سبک‌تر ولی ایزوله نیست",
+      "tags": [
+        "programming",
+        "concurrency",
+        "system"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "token",
+      "translation": "توکن",
+      "ipa": "/ˈtoʊkən/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "رشته‌ای رمزنگاری‌شده برای احراز هویت و دسترسی",
+      "definitions": [
+        "a digital access credential used for authentication",
+        "a string that represents authorization to access resources"
+      ],
+      "examples": [
+        "The API uses bearer tokens for authentication.",
+        "Generate a new access token."
+      ],
+      "synonyms": [
+        "credential",
+        "key",
+        "pass"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "access token",
+        "bearer token",
+        "JWT token",
+        "token-based authentication"
+      ],
+      "wordFamily": [
+        "tokenize",
+        "tokenization"
+      ],
+      "note": "JWT (JSON Web Token) رایج‌ترین نوع توکن در وب API‌هاست",
+      "trap": "توکن‌ها تاریخ انقضا دارند — بعد از انقضا باید refresh شوند",
+      "tags": [
+        "security",
+        "authentication",
+        "API"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "variable",
+      "translation": "متغیر",
+      "ipa": "/ˈveriəbl/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "نامی برای محل ذخیره‌سازی داده در حافظه",
+      "definitions": [
+        "a named storage location in memory that holds a value",
+        "a symbolic name associated with a value that can change"
+      ],
+      "examples": [
+        "Declare the variable before using it.",
+        "The variable stores the user's name."
+      ],
+      "synonyms": [
+        "identifier",
+        "field",
+        "symbol"
+      ],
+      "antonyms": [
+        "constant"
+      ],
+      "collocations": [
+        "global variable",
+        "local variable",
+        "variable name",
+        "declare variable"
+      ],
+      "wordFamily": [
+        "vary",
+        "variation",
+        "invariable"
+      ],
+      "note": "نام‌گذاری خوب متغیرها کد را خواناتر می‌کند",
+      "trap": "variable و constant فرق دارند — متغیر تغییر می‌کند، ثابت تغییر نمی‌کند",
+      "tags": [
+        "programming",
+        "fundamental"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "version",
+      "translation": "نسخه",
+      "ipa": "/ˈvɜːrʒən/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "شکل خاصی از نرم‌افزار با تغییرات مشخص",
+      "definitions": [
+        "a specific form of software that differs from other forms",
+        "a numbered release of a product with particular changes or features"
+      ],
+      "examples": [
+        "What version of Node are you using?",
+        "Upgrade to the latest version."
+      ],
+      "synonyms": [
+        "release",
+        "edition",
+        "build"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "version control",
+        "version number",
+        "latest version",
+        "version history"
+      ],
+      "wordFamily": [
+        "versioning"
+      ],
+      "note": "نسخه‌گذاری معنایی (semver): major.minor.patch",
+      "trap": "version و edition فرق دارند — version تکاملی است، edition تنوعی",
+      "tags": [
+        "development",
+        "version-control",
+        "release"
+      ],
+      "source": "computer"
+    },
+    {
+      "word": "webhook",
+      "translation": "وب‌هوک",
+      "ipa": "/ˈwebhʊk/",
+      "partOfSpeech": "noun",
+      "coreMeaning": "مکانیزمی که رویدادها را بلافاصله از طریق HTTP اطلاع‌رسانی می‌کند",
+      "definitions": [
+        "an automated message sent between applications when an event occurs",
+        "a push-based notification mechanism that sends data to a URL"
+      ],
+      "examples": [
+        "Set up a webhook for notifications.",
+        "The webhook triggers when a new user signs up."
+      ],
+      "synonyms": [
+        "callback URL",
+        "push notification",
+        "event hook"
+      ],
+      "antonyms": [
+        "polling"
+      ],
+      "collocations": [
+        "webhook URL",
+        "webhook event",
+        "webhook payload",
+        "webhook endpoint"
+      ],
+      "wordFamily": [
+        "webhook-based"
+      ],
+      "note": "webhook برخلاف polling، سرور خودش داده را push می‌کند",
+      "trap": "webhook و polling مکمل هستند — webhook push است، polling pull",
+      "tags": [
+        "API",
+        "architecture",
+        "real-time",
+        "web"
+      ],
+      "source": "computer"
+    }
+  ]
+}
