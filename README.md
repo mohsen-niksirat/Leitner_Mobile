@@ -8,8 +8,7 @@
 ![License](https://img.shields.io/badge/license-free-34d399?style=flat-square)
 ![PWA](https://img.shields.io/badge/PWA-ready-34d399?style=flat-square)
 
-**🚀 [نسخه دمو (وب)](https://niksiratforex-ux.github.io/leitner-mobile/)**
-
+[**🚀 [نسخه دمو (وب)](https://mohsen-niksirat.github.io/Leitner_Mobile)**
 </div>
 
 ---
@@ -68,7 +67,7 @@
 ### نسخه وب (PWA)
 
 ```bash
-git clone https://github.com/niksiratforex-ux/leitner-mobile.git
+git clone https://github.com/mohsen-niksirat/Leitner_Mobile.git
 cd leitner-mobile
 
 # مستقیم با مرورگر باز کنید
@@ -157,8 +156,8 @@ leitner-mobile/
 
 **ساخته شده با ❤️ برای یادگیری بهتر زبان انگلیسی**
 
-[⭐ Star](https://github.com/niksiratforex-ux/leitner-mobile/stargazers) ·
-[🐛 Issues](https://github.com/niksiratforex-ux/leitner-mobile/issues) ·
-[🚀 دمو](https://niksiratforex-ux.github.io/leitner-mobile/)
+[⭐ Star](https://github.com/mohsen-niksirat/Leitner_Mobile/stargazers) ·
+[🐛 Issues](https://github.com/mohsen-niksirat/Leitner_Mobile/issues) ·
+[🚀 دمو](https://mohsen-niksirat.github.io/Leitner_Mobile)
 
 </div>
