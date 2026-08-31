@@ -1,0 +1,2270 @@
+{
+  "name": "آکادمیک عمومی",
+  "description": "واژگان سطح B2 — موضوع: واژگان آکادمیک و مقاله‌نویسی",
+  "category": "B2 — سطح",
+  "level": "B2",
+  "packId": "B2-01",
+  "words": [
+    {
+      "word": "hypothesis",
+      "translation": "فرضیه",
+      "ipa": "/haɪˈpɑːθəsɪs/",
+      "partOfSpeech": "noun",
+      "example": "The hypothesis was tested through a series of controlled experiments.",
+      "definitions": [
+        "a proposed explanation made on the basis of limited evidence, used as a starting point for investigation"
+      ],
+      "synonyms": [
+        "theory",
+        "assumption",
+        "proposition"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "test a hypothesis",
+        "formulate a hypothesis",
+        "support a hypothesis"
+      ],
+      "wordFamily": [
+        "hypothetical (adj)",
+        "hypothesize (v)",
+        "hypothetically (adv)"
+      ],
+      "coreMeaning": "پیشنهاد توضیح برای پدیده‌ای که هنوز اثبات نشده",
+      "note": "جمع: hypotheses — در مقالات علمی نقطه شروع تحقیق است",
+      "trap": "با hypothesis (noun) و hypothetical (adj) اشتباه نگیرید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "thesis",
+      "translation": "پایان‌نامه / تز",
+      "ipa": "/ˈθiːsɪs/",
+      "partOfSpeech": "noun",
+      "example": "She submitted her doctoral thesis on renewable energy systems.",
+      "definitions": [
+        "a long essay or dissertation involving personal research",
+        "a statement or theory put forward to be maintained or proved"
+      ],
+      "synonyms": [
+        "dissertation",
+        "argument",
+        "proposition"
+      ],
+      "antonyms": [
+        "antithesis"
+      ],
+      "collocations": [
+        "submit a thesis",
+        "defend a thesis",
+        "write a thesis"
+      ],
+      "wordFamily": [
+        "thesis (n)",
+        "antithesis (n)",
+        "synthesize (v)"
+      ],
+      "coreMeaning": "پایان‌نامه یا ادعای اصلی مقاله",
+      "note": "جمع: theses — هم به معنای پایان‌نامه و هم ادعای اصلی مقاله است",
+      "trap": "thesis (تز) با theme (موضوع) فرق دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "argumentation",
+      "translation": "استدلال‌آوری",
+      "ipa": "/ˌɑːrɡjumenˈteɪʃn/",
+      "partOfSpeech": "noun",
+      "example": "Good argumentation requires both evidence and logical reasoning.",
+      "definitions": [
+        "the process of developing or presenting an argument systematically"
+      ],
+      "synonyms": [
+        "reasoning",
+        "logic",
+        "debate"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "logical argumentation",
+        "sound argumentation",
+        "skills in argumentation"
+      ],
+      "wordFamily": [
+        "argue (v)",
+        "argument (n)",
+        "argumentative (adj)"
+      ],
+      "coreMeaning": "فرآیند ارائه استدلال منظم و منطقی",
+      "note": "در نوشتن آکادمیک مهارتی ضروری است",
+      "trap": "با argument (بحث/جدل) که بار منفی دارد اشتباه نگیرید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "methodology",
+      "translation": "روش‌شناسی",
+      "ipa": "/ˌmeθəˈdɑːlədʒi/",
+      "partOfSpeech": "noun",
+      "example": "The research methodology included both qualitative and quantitative approaches.",
+      "definitions": [
+        "a system of methods used in a particular area of study or activity"
+      ],
+      "synonyms": [
+        "approach",
+        "procedure",
+        "framework"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "research methodology",
+        "adopt a methodology",
+        "describe the methodology"
+      ],
+      "wordFamily": [
+        "method (n)",
+        "methodological (adj)",
+        "methodologically (adv)"
+      ],
+      "coreMeaning": "مجموعه روش‌های سیستماتیک برای انجام تحقیق",
+      "note": "بخش مهمی از هر مقاله تحقیقی است",
+      "trap": "methodology (روش‌شناسی) با method (روش) فرق دارد — methodology کلی‌تر است",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "citation",
+      "translation": "ارجاع / استناد",
+      "ipa": "/saɪˈteɪʃn/",
+      "partOfSpeech": "noun",
+      "example": "Every claim in the essay must be supported by proper citations.",
+      "definitions": [
+        "a reference to a source of information used in academic writing"
+      ],
+      "synonyms": [
+        "reference",
+        "quotation",
+        "attribution"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "include a citation",
+        "provide a citation",
+        "citation format"
+      ],
+      "wordFamily": [
+        "cite (v)",
+        "citation (n)"
+      ],
+      "coreMeaning": "ارجاع به منبع اطلاعات در نوشته آکادمیک",
+      "note": "APA و MLA دو سبک رایج ارجاع‌دهی هستند",
+      "trap": "citation (ارجاع) با quotation (نقل‌قول مستقیم) فرق دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "bibliography",
+      "translation": "کتاب‌نامه / فهرست منابع",
+      "ipa": "/ˌbɪbliˈɑːɡrəfi/",
+      "partOfSpeech": "noun",
+      "example": "The bibliography at the end of the paper listed over fifty sources.",
+      "definitions": [
+        "a list of sources used or consulted in the preparation of a work"
+      ],
+      "synonyms": [
+        "references",
+        "works cited",
+        "source list"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "compile a bibliography",
+        "annotated bibliography",
+        "bibliography entry"
+      ],
+      "wordFamily": [
+        "bibliography (n)",
+        "bibliographic (adj)"
+      ],
+      "coreMeaning": "فهرست منابع استفاده‌شده در انتهای مقاله",
+      "note": "در انتهای مقاله آکادمیک قرار می‌گیرد",
+      "trap": "bibliography (فهرست منابع) با reference list تفاوت جزئی دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "abstract",
+      "translation": "چکیده",
+      "ipa": "/ˈæbstrækt/",
+      "partOfSpeech": "noun",
+      "example": "The abstract summarizes the key findings in fewer than 250 words.",
+      "definitions": [
+        "a brief summary of the contents of an academic article or report"
+      ],
+      "synonyms": [
+        "summary",
+        "overview",
+        "synopsis"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "write an abstract",
+        "read the abstract",
+        "abstract of a paper"
+      ],
+      "wordFamily": [
+        "abstract (n/adj)",
+        "abstraction (n)"
+      ],
+      "coreMeaning": "خلاصه مختصر مقاله آکادمیک",
+      "note": "معمولاً ۱۵۰ تا ۳۰۰ کلمه است و اول مقاله می‌آید",
+      "trap": "abstract به عنوان اسم (چکیده) و صفت (انتزاعی) معنای متفاوت دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "peer review",
+      "translation": "داوری همتایان",
+      "ipa": "/pɪr rɪˈvjuː/",
+      "partOfSpeech": "noun",
+      "example": "The paper underwent rigorous peer review before publication.",
+      "definitions": [
+        "evaluation of scientific or academic work by others in the same field"
+      ],
+      "synonyms": [
+        "expert review",
+        "scholarly review"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "peer-reviewed journal",
+        "undergo peer review",
+        "peer review process"
+      ],
+      "wordFamily": [
+        "peer (n)",
+        "review (n/v)"
+      ],
+      "coreMeaning": "بررسی و ارزیابی مقاله توسط متخصصان همان حوزه",
+      "note": "مقالات peer-reviewed اعتبار بیشتری دارند",
+      "trap": "peer review فقط مختص علم نیست — در ادبیات و هنر هم کاربرد دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "empirical",
+      "translation": "تجربی",
+      "ipa": "/ɪmˈpɪrɪkl/",
+      "partOfSpeech": "adj",
+      "example": "The study provides empirical evidence for the effectiveness of the treatment.",
+      "definitions": [
+        "based on observation or experience rather than theory or pure logic"
+      ],
+      "synonyms": [
+        "experimental",
+        "observational",
+        "practical"
+      ],
+      "antonyms": [
+        "theoretical",
+        "hypothetical"
+      ],
+      "collocations": [
+        "empirical evidence",
+        "empirical research",
+        "empirical data"
+      ],
+      "wordFamily": [
+        "empirically (adv)",
+        "empiricism (n)"
+      ],
+      "coreMeaning": "مبتنی بر مشاهده و تجربه واقعی",
+      "note": "در مقابل theoretical قرار دارد",
+      "trap": "empirical (تجربی) با imperial (امپراتوری) اشتباه نگیرید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "qualitative",
+      "translation": "کیفی",
+      "ipa": "/ˈkwɑːlɪteɪtɪv/",
+      "partOfSpeech": "adj",
+      "example": "Qualitative research focuses on understanding experiences and perspectives.",
+      "definitions": [
+        "relating to the quality or nature of something rather than its quantity"
+      ],
+      "synonyms": [
+        "descriptive",
+        "subjective",
+        "experiential"
+      ],
+      "antonyms": [
+        "quantitative"
+      ],
+      "collocations": [
+        "qualitative research",
+        "qualitative analysis",
+        "qualitative data"
+      ],
+      "wordFamily": [
+        "quality (n)",
+        "qualitatively (adv)"
+      ],
+      "coreMeaning": "مربوط به کیفیت و ماهیت (نه مقدار)",
+      "note": "روش تحقیق کیفی شامل مصاحبه، مشاهده و تحلیل محتوا است",
+      "trap": "qualitative (کیفی) و quantitative (کمی) مکمل یکدیگرند",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "quantitative",
+      "translation": "کمّی",
+      "ipa": "/ˈkwɑːntɪteɪtɪv/",
+      "partOfSpeech": "adj",
+      "example": "Quantitative data was collected through online surveys.",
+      "definitions": [
+        "relating to the amount or number of something, expressed as data"
+      ],
+      "synonyms": [
+        "numerical",
+        "statistical",
+        "measurable"
+      ],
+      "antonyms": [
+        "qualitative"
+      ],
+      "collocations": [
+        "quantitative research",
+        "quantitative analysis",
+        "quantitative data"
+      ],
+      "wordFamily": [
+        "quantity (n)",
+        "quantitatively (adv)"
+      ],
+      "coreMeaning": "مربوط به مقدار و عدد (قابل اندازه‌گیری)",
+      "note": "روش تحقیق کمّی شامل آزمایش و پرسشنامه است",
+      "trap": "quantitative (کمّی) و qualitative (کیفی) را با هم قاطی نکنید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "inference",
+      "translation": "استنتاج",
+      "ipa": "/ˈɪnfərəns/",
+      "partOfSpeech": "noun",
+      "example": "Based on the data, the researcher drew several inferences about consumer behavior.",
+      "definitions": [
+        "a conclusion reached from evidence and reasoning rather than from explicit statements"
+      ],
+      "synonyms": [
+        "deduction",
+        "conclusion",
+        "reasoning"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "draw an inference",
+        "make an inference",
+        "logical inference"
+      ],
+      "wordFamily": [
+        "infer (v)",
+        "inference (n)",
+        "inferential (adj)"
+      ],
+      "coreMeaning": "نتیجه‌گیری از روی شواهد و استدلال",
+      "note": "در تحلیل داده‌ها و خواندن متن آکادمیک کاربرد دارد",
+      "trap": "inference (استنتاج) با reference (ارجاع) اشتباه نگیرید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "deduction",
+      "translation": "قیاس / استنتاج منطقی",
+      "ipa": "/dɪˈdʌkʃn/",
+      "partOfSpeech": "noun",
+      "example": "Through logical deduction, the scientist confirmed the theory.",
+      "definitions": [
+        "the process of reasoning from general principles to a specific conclusion"
+      ],
+      "synonyms": [
+        "reasoning",
+        "inference",
+        "logic"
+      ],
+      "antonyms": [
+        "induction"
+      ],
+      "collocations": [
+        "logical deduction",
+        "make a deduction",
+        "deduction from evidence"
+      ],
+      "wordFamily": [
+        "deduce (v)",
+        "deductive (adj)",
+        "deductively (adv)"
+      ],
+      "coreMeaning": "استدلال از کل به جزء (قیاس)",
+      "note": "در مقابل induction (استقرا) قرار دارد",
+      "trap": "deduction منطقی با deduction مالی (کسر مالیات) فرق دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "induction",
+      "translation": "استقرا",
+      "ipa": "/ɪnˈdʌkʃn/",
+      "partOfSpeech": "noun",
+      "example": "Induction involves drawing general conclusions from specific observations.",
+      "definitions": [
+        "the process of reasoning from specific cases to general principles"
+      ],
+      "synonyms": [
+        "generalization",
+        "reasoning"
+      ],
+      "antonyms": [
+        "deduction"
+      ],
+      "collocations": [
+        "inductive reasoning",
+        "induction method",
+        "mathematical induction"
+      ],
+      "wordFamily": [
+        "induce (v)",
+        "inductive (adj)",
+        "inductively (adv)"
+      ],
+      "coreMeaning": "استدلال از جزء به کل (استقرا)",
+      "note": "در مقابل deduction (قیاس) قرار دارد",
+      "trap": "induction منطقی با induction شغلی (آغاز به کار) فرق دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "correlation",
+      "translation": "همبستگی",
+      "ipa": "/ˌkɔːrəˈleɪʃn/",
+      "partOfSpeech": "noun",
+      "example": "There is a strong correlation between exercise and mental health.",
+      "definitions": [
+        "a mutual relationship or connection between two or more things"
+      ],
+      "synonyms": [
+        "connection",
+        "relationship",
+        "association"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "positive correlation",
+        "strong correlation",
+        "correlation does not imply causation"
+      ],
+      "wordFamily": [
+        "correlate (v)",
+        "correlational (adj)"
+      ],
+      "coreMeaning": "رابطه متقابل بین دو یا چند متغیر",
+      "note": "همبستگی لزوماً به معنای علیت نیست",
+      "trap": "correlation ≠ causation — همبستگی به معنای رابطه علت و معلولی نیست",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "causation",
+      "translation": "علیت / سببیت",
+      "ipa": "/kɔːˈzeɪʃn/",
+      "partOfSpeech": "noun",
+      "example": "The study aims to establish causation rather than mere correlation.",
+      "definitions": [
+        "the action of causing something; the relationship between cause and effect"
+      ],
+      "synonyms": [
+        "cause",
+        "reason",
+        "origin"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "establish causation",
+        "prove causation",
+        "causation and correlation"
+      ],
+      "wordFamily": [
+        "cause (n/v)",
+        "causal (adj)",
+        "causally (adv)"
+      ],
+      "coreMeaning": "رابطه علت و معلولی بین دو پدیده",
+      "note": "اثبات علیت دشوارتر از نشان دادن همبستگی است",
+      "trap": "causation (علیت) با correlation (همبستگی) بسیار متفاوت است",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "variable",
+      "translation": "متغیر",
+      "ipa": "/ˈveriəbl/",
+      "partOfSpeech": "noun",
+      "example": "The independent variable was manipulated to observe its effect.",
+      "definitions": [
+        "a factor or element that can change or be changed in an experiment or analysis"
+      ],
+      "synonyms": [
+        "factor",
+        "element",
+        "parameter"
+      ],
+      "antonyms": [
+        "constant"
+      ],
+      "collocations": [
+        "independent variable",
+        "dependent variable",
+        "control variable"
+      ],
+      "wordFamily": [
+        "vary (v)",
+        "variable (n/adj)",
+        "variation (n)"
+      ],
+      "coreMeaning": "عاملی که می‌تواند تغییر کند یا تغییر داده شود",
+      "note": "در تحقیق: متغیر مستقل، وابسته و کنترل",
+      "trap": "variable به عنوان اسم و صفت کاربرد متفاوت دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "longitudinal",
+      "translation": "طولی (در طول زمان)",
+      "ipa": "/ˌlɑːndʒɪˈtuːdɪnl/",
+      "partOfSpeech": "adj",
+      "example": "A longitudinal study tracked participants over a ten-year period.",
+      "definitions": [
+        "done or observed over a long period of time, following the same subjects"
+      ],
+      "synonyms": [
+        "long-term",
+        "extended",
+        "prolonged"
+      ],
+      "antonyms": [
+        "cross-sectional"
+      ],
+      "collocations": [
+        "longitudinal study",
+        "longitudinal research",
+        "longitudinal data"
+      ],
+      "wordFamily": [
+        "longitude (n)",
+        "longitudinally (adv)"
+      ],
+      "coreMeaning": "انجام‌شده در طول یک دوره زمانی بلند",
+      "note": "در مقابل cross-sectional (مقطعی) قرار دارد",
+      "trap": "longitudinal (طولی) با lateral (جانبی) اشتباه نگیرید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "cross-sectional",
+      "translation": "مقطعی",
+      "ipa": "/krɔːs ˈsekʃənl/",
+      "partOfSpeech": "adj",
+      "example": "The cross-sectional survey captured data from a single point in time.",
+      "definitions": [
+        "involving the study of a group at one particular point in time"
+      ],
+      "synonyms": [
+        "snapshot",
+        "one-time"
+      ],
+      "antonyms": [
+        "longitudinal"
+      ],
+      "collocations": [
+        "cross-sectional study",
+        "cross-sectional analysis",
+        "cross-sectional data"
+      ],
+      "wordFamily": [
+        "cross-section (n)"
+      ],
+      "coreMeaning": "مطالعه در یک لحظه مشخص از زمان",
+      "note": "برخلاف مطالعه طولی، فقط یک بار داده جمع‌آوری می‌شود",
+      "trap": "cross-sectional (مقطعی) با cross-cultural (بین‌فرهنگی) فرق دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "paraphrase",
+      "translation": "بازنویسی / پارافریز",
+      "ipa": "/ˈpærəfreɪz/",
+      "partOfSpeech": "verb",
+      "example": "You should paraphrase the source rather than copy it directly.",
+      "definitions": [
+        "to express the meaning of something using different words"
+      ],
+      "synonyms": [
+        "rephrase",
+        "reword",
+        "rewrite"
+      ],
+      "antonyms": [
+        "quote"
+      ],
+      "collocations": [
+        "paraphrase a text",
+        "paraphrase a source",
+        "paraphrase the author"
+      ],
+      "wordFamily": [
+        "paraphrase (v/n)",
+        "paraphrasis (n)"
+      ],
+      "coreMeaning": "بیان مجدد مطلب با کلمات متفاوت",
+      "note": "در نوشتن آکادمیک برای جلوگیری از سرقت ادبی ضروری است",
+      "trap": "paraphrase (بازنویسی) با summarize (خلاصه‌نویسی) فرق دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "plagiarism",
+      "translation": "سرقت ادبی",
+      "ipa": "/ˈpleɪdʒərɪzəm/",
+      "partOfSpeech": "noun",
+      "example": "Plagiarism can result in expulsion from the university.",
+      "definitions": [
+        "the practice of taking someone else's work and presenting it as your own"
+      ],
+      "synonyms": [
+        "copying",
+        "theft",
+        "piracy"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "commit plagiarism",
+        "accusation of plagiarism",
+        "avoid plagiarism"
+      ],
+      "wordFamily": [
+        "plagiarize (v)",
+        "plagiarist (n)"
+      ],
+      "coreMeaning": "استفاده از اثر دیگران بدون ذکر منبع",
+      "note": "در محیط آکادمیک جرم محسوب می‌شود",
+      "trap": "plagiarism حتی شامل ایده‌ها هم می‌شود، نه فقط متن",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "discourse",
+      "translation": "گفتمان",
+      "ipa": "/ˈdɪskɔːrs/",
+      "partOfSpeech": "noun",
+      "example": "Academic discourse requires formal language and structured arguments.",
+      "definitions": [
+        "written or spoken communication; formal discussion of a topic"
+      ],
+      "synonyms": [
+        "discussion",
+        "dialogue",
+        "debate"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "academic discourse",
+        "public discourse",
+        "discourse analysis"
+      ],
+      "wordFamily": [
+        "discourse (n)",
+        "discursive (adj)"
+      ],
+      "coreMeaning": "تبادل نظر رسمی یا نوشتاری درباره یک موضوع",
+      "note": "تحلیل گفتمان یک روش تحقیق مهم است",
+      "trap": "discourse (گفتمان) با discussion (بحث) تفاوت رسمیت دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "paradigm",
+      "translation": "الگوی فکری / پارادایم",
+      "ipa": "/ˈpærədaɪm/",
+      "partOfSpeech": "noun",
+      "example": "The discovery led to a paradigm shift in modern physics.",
+      "definitions": [
+        "a typical example or pattern of something; a model or framework"
+      ],
+      "synonyms": [
+        "model",
+        "framework",
+        "pattern"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "paradigm shift",
+        "new paradigm",
+        "dominant paradigm"
+      ],
+      "wordFamily": [
+        "paradigmatic (adj)"
+      ],
+      "coreMeaning": "مدل یا چارچوب فکری غالب در یک حوزه",
+      "note": "paradigm shift = تغییر اساسی در نحوه تفکر",
+      "trap": "paradigm با حرف g تلفظ می‌شود: /ˈpærədaɪm/",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "rhetoric",
+      "translation": "بلاغت / فن خطابه",
+      "ipa": "/ˈretərɪk/",
+      "partOfSpeech": "noun",
+      "example": "The politician's speech was full of empty rhetoric.",
+      "definitions": [
+        "the art of effective or persuasive speaking or writing",
+        "language designed to persuade but lacking sincerity"
+      ],
+      "synonyms": [
+        "eloquence",
+        "oratory",
+        "persuasion"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "political rhetoric",
+        "empty rhetoric",
+        "the art of rhetoric"
+      ],
+      "wordFamily": [
+        "rhetoric (n)",
+        "rhetorical (adj)",
+        "rhetorically (adv)"
+      ],
+      "coreMeaning": "فن سخنوری و متقاعدسازی",
+      "note": "می‌تواند معنای مثبت (بلاغت) یا منفی (حرف توخالی) داشته باشد",
+      "trap": "rhetorical question = سؤالی که جواب نمی‌خواهد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "synthesis",
+      "translation": "ترکیب / سنتز",
+      "ipa": "/ˈsɪnθəsɪs/",
+      "partOfSpeech": "noun",
+      "example": "The synthesis of multiple theories produced a comprehensive framework.",
+      "definitions": [
+        "the combination of ideas to form a theory or system"
+      ],
+      "synonyms": [
+        "combination",
+        "integration",
+        "fusion"
+      ],
+      "antonyms": [
+        "analysis"
+      ],
+      "collocations": [
+        "literature synthesis",
+        "synthesize information",
+        "synthesis of ideas"
+      ],
+      "wordFamily": [
+        "synthesize (v)",
+        "synthetic (adj)",
+        "synthetically (adv)"
+      ],
+      "coreMeaning": "ترکیب ایده‌ها و اطلاعات مختلف برای ایجاد درک جدید",
+      "note": "در مقابل analysis (تجزیه) قرار دارد",
+      "trap": "synthesis (ترکیب) با summary (خلاصه) فرق دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "analysis",
+      "translation": "تحلیل / بررسی",
+      "ipa": "/əˈnæləsɪs/",
+      "partOfSpeech": "noun",
+      "example": "A thorough analysis of the data revealed unexpected patterns.",
+      "definitions": [
+        "detailed examination of the elements or structure of something"
+      ],
+      "synonyms": [
+        "examination",
+        "evaluation",
+        "study"
+      ],
+      "antonyms": [
+        "synthesis"
+      ],
+      "collocations": [
+        "data analysis",
+        "critical analysis",
+        "in-depth analysis"
+      ],
+      "wordFamily": [
+        "analyze (v)",
+        "analytical (adj)",
+        "analytically (adv)"
+      ],
+      "coreMeaning": "بررسی دقیق و جزئی اجزای یک موضوع",
+      "note": "جمع: analyses — یکی از پرکاربردترین کلمات آکادمیک",
+      "trap": "analysis (noun) ≠ analyze (verb) — تلفظ و املا متفاوت است",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "critique",
+      "translation": "نقد / بررسی انتقادی",
+      "ipa": "/krɪˈtiːk/",
+      "partOfSpeech": "noun",
+      "example": "The professor provided a detailed critique of the student's essay.",
+      "definitions": [
+        "a detailed analysis and assessment of something, especially a literary or artistic work"
+      ],
+      "synonyms": [
+        "review",
+        "evaluation",
+        "assessment"
+      ],
+      "antonyms": [
+        "praise"
+      ],
+      "collocations": [
+        "write a critique",
+        "literary critique",
+        "critique of a theory"
+      ],
+      "wordFamily": [
+        "critique (n/v)",
+        "critical (adj)",
+        "critically (adv)"
+      ],
+      "coreMeaning": "ارزیابی و بررسی انتقادی یک اثر یا نظریه",
+      "note": "هم به عنوان اسم و هم فعل استفاده می‌شود",
+      "trap": "critique (نقد سازنده) با criticism (انتقاد) تفاوت لحن دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "assertion",
+      "translation": "ادعا / اظهار",
+      "ipa": "/əˈsɜːrʃn/",
+      "partOfSpeech": "noun",
+      "example": "The assertion that climate change is reversible remains controversial.",
+      "definitions": [
+        "a confident and forceful statement of fact or belief"
+      ],
+      "synonyms": [
+        "claim",
+        "declaration",
+        "statement"
+      ],
+      "antonyms": [
+        "denial"
+      ],
+      "collocations": [
+        "make an assertion",
+        "bold assertion",
+        "support an assertion"
+      ],
+      "wordFamily": [
+        "assert (v)",
+        "assertive (adj)",
+        "assertively (adv)"
+      ],
+      "coreMeaning": "بیان قاطع یک ادعا یا باور",
+      "note": "ادعاهای آکادمیک باید با شواهد پشتیبانی شوند",
+      "trap": "assertion (ادعا) با assumption (فرض) فرق دارد — assertion قاطع‌تر است",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "premise",
+      "translation": "مقدمه استدلال / پیش‌فرض",
+      "ipa": "/ˈpremɪs/",
+      "partOfSpeech": "noun",
+      "example": "The argument is based on the premise that all humans are equal.",
+      "definitions": [
+        "a statement or proposition from which a conclusion is drawn"
+      ],
+      "synonyms": [
+        "assumption",
+        "basis",
+        "foundation"
+      ],
+      "antonyms": [
+        "conclusion"
+      ],
+      "collocations": [
+        "basic premise",
+        "underlying premise",
+        "premise of the argument"
+      ],
+      "wordFamily": [
+        "premise (n)",
+        "premises (n)"
+      ],
+      "coreMeaning": "پیش‌فرض یا مبنای استدلال",
+      "note": "جمع premises هم به معنای ساختمان و محوطه است",
+      "trap": "premise (پیش‌فرض) و premises (ساختمان) هم‌ریشه ولی متفاوت‌اند",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "fallacy",
+      "translation": "مغالطه",
+      "ipa": "/ˈfæləsi/",
+      "partOfSpeech": "noun",
+      "example": "The argument contains a logical fallacy that undermines its conclusion.",
+      "definitions": [
+        "a mistaken belief, especially one based on unsound argument"
+      ],
+      "synonyms": [
+        "error",
+        "misconception",
+        "flaw"
+      ],
+      "antonyms": [
+        "truth"
+      ],
+      "collocations": [
+        "logical fallacy",
+        "common fallacy",
+        "identify a fallacy"
+      ],
+      "wordFamily": [
+        "fallacy (n)",
+        "fallacious (adj)"
+      ],
+      "coreMeaning": "خطای منطقی در استدلال",
+      "note": "آشنایی با مغالطه‌ها برای تفکر انتقادی ضروری است",
+      "trap": "fallacy (مغالطه) با failure (شکست) اشتباه نگیرید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "coherent",
+      "translation": "منسجم / یکپارچه",
+      "ipa": "/koʊˈhɪrənt/",
+      "partOfSpeech": "adj",
+      "example": "A coherent essay presents ideas in a logical and connected manner.",
+      "definitions": [
+        "logical and consistent; able to be understood as a unified whole"
+      ],
+      "synonyms": [
+        "logical",
+        "consistent",
+        "clear"
+      ],
+      "antonyms": [
+        "incoherent",
+        "disjointed"
+      ],
+      "collocations": [
+        "coherent argument",
+        "coherent essay",
+        "coherent structure"
+      ],
+      "wordFamily": [
+        "cohere (v)",
+        "coherence (n)",
+        "coherently (adv)"
+      ],
+      "coreMeaning": "دارای انسجام و ارتباط منطقی بین اجزا",
+      "note": "یکی از معیارهای اصلی ارزیابی مقاله آکادمیک",
+      "trap": "coherent (منسجم) با cohesive (چسبنده) تفاوت ظریفی دارند",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "cohesive",
+      "translation": "چسبنده / پیوسته",
+      "ipa": "/koʊˈhiːsɪv/",
+      "partOfSpeech": "adj",
+      "example": "The essay lacked cohesive links between paragraphs.",
+      "definitions": [
+        "characterized by unity and sticking together; forming a united whole"
+      ],
+      "synonyms": [
+        "unified",
+        "connected",
+        "integrated"
+      ],
+      "antonyms": [
+        "fragmented",
+        "disconnected"
+      ],
+      "collocations": [
+        "cohesive essay",
+        "cohesive device",
+        "cohesive whole"
+      ],
+      "wordFamily": [
+        "cohesion (n)",
+        "cohesively (adv)"
+      ],
+      "coreMeaning": "دارای پیوستگی و اتصال بین بخش‌ها",
+      "note": "cohesive devices شامل اتصال‌دهنده‌ها و اشارات متنی است",
+      "trap": "cohesive (پیوسته) بیشتر درباره ساختار متن، coherent بیشتر درباره منطق",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "elaborate",
+      "translation": "توضیح دادن / مفصل",
+      "ipa": "/ɪˈlæbəreɪt/",
+      "partOfSpeech": "verb",
+      "example": "Could you elaborate on your second point?",
+      "definitions": [
+        "to develop or present in detail"
+      ],
+      "synonyms": [
+        "expand",
+        "detail",
+        "develop"
+      ],
+      "antonyms": [
+        "simplify",
+        "abbreviate"
+      ],
+      "collocations": [
+        "elaborate on a point",
+        "elaborate further",
+        "elaborate explanation"
+      ],
+      "wordFamily": [
+        "elaborate (v/adj)",
+        "elaboration (n)"
+      ],
+      "coreMeaning": "ارائه جزئیات بیشتر درباره یک موضوع",
+      "note": "به عنوان فعل: توضیح دادن — به عنوان صفت: پیچیده و مفصل",
+      "trap": "elaborate فعل /ɪˈlæbəreɪt/ و صفت /ɪˈlæbərət/ تلفظ متفاوت دارند",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "substantiate",
+      "translation": "مستند کردن / اثبات کردن",
+      "ipa": "/səbˈstænʃieɪt/",
+      "partOfSpeech": "verb",
+      "example": "The researcher was unable to substantiate the initial claims.",
+      "definitions": [
+        "to provide evidence to support or prove the truth of something"
+      ],
+      "synonyms": [
+        "verify",
+        "confirm",
+        "validate"
+      ],
+      "antonyms": [
+        "disprove",
+        "refute"
+      ],
+      "collocations": [
+        "substantiate a claim",
+        "substantiate allegations",
+        "substantiate findings"
+      ],
+      "wordFamily": [
+        "substance (n)",
+        "substantial (adj)",
+        "substantiation (n)"
+      ],
+      "coreMeaning": "ارائه شواهد و مدارک برای اثبات ادعا",
+      "note": "در نوشتن آکادمیک هر ادعا باید مستند شود",
+      "trap": "substantiate (اثبات) با substitute (جایگزین) اشتباه نگیرید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "refute",
+      "translation": "رد کردن / ابطال کردن",
+      "ipa": "/rɪˈfjuːt/",
+      "partOfSpeech": "verb",
+      "example": "The new evidence refutes the previously accepted theory.",
+      "definitions": [
+        "to prove that a statement or theory is wrong or false"
+      ],
+      "synonyms": [
+        "disprove",
+        "counter",
+        "rebut"
+      ],
+      "antonyms": [
+        "confirm",
+        "support",
+        "validate"
+      ],
+      "collocations": [
+        "refute a claim",
+        "refute an argument",
+        "refute allegations"
+      ],
+      "wordFamily": [
+        "refute (v)",
+        "refutation (n)",
+        "refutable (adj)"
+      ],
+      "coreMeaning": "اثبات نادرستی یک ادعا یا نظریه",
+      "note": "refute = اثبات نادرستی — deny = فقط انکار بدون اثبات",
+      "trap": "refute (اثبات نادرستی) با deny (انکار) فرق مهمی دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "rebuttal",
+      "translation": "پاسخ متقابل / ابطال",
+      "ipa": "/rɪˈbʌtl/",
+      "partOfSpeech": "noun",
+      "example": "The lawyer presented a strong rebuttal to the prosecution's argument.",
+      "definitions": [
+        "a counter-argument or evidence presented to disprove a claim"
+      ],
+      "synonyms": [
+        "counter-argument",
+        "response",
+        "refutation"
+      ],
+      "antonyms": [
+        "agreement"
+      ],
+      "collocations": [
+        "present a rebuttal",
+        "strong rebuttal",
+        "rebuttal to the argument"
+      ],
+      "wordFamily": [
+        "rebut (v)",
+        "rebuttal (n)"
+      ],
+      "coreMeaning": "پاسخ یا استدلال متقابل برای رد ادعای طرف مقابل",
+      "note": "در بحث‌های آکادمیک و حقوقی کاربرد دارد",
+      "trap": "rebuttal (پاسخ مستدل) با reply (پاسخ ساده) فرق دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "implication",
+      "translation": "پیامد / دلالت",
+      "ipa": "/ˌɪmplɪˈkeɪʃn/",
+      "partOfSpeech": "noun",
+      "example": "The findings have significant implications for educational policy.",
+      "definitions": [
+        "a possible future effect or result of an action",
+        "something suggested but not directly stated"
+      ],
+      "synonyms": [
+        "consequence",
+        "ramification",
+        "suggestion"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "practical implications",
+        "have implications for",
+        "theoretical implications"
+      ],
+      "wordFamily": [
+        "imply (v)",
+        "implication (n)",
+        "implicit (adj)"
+      ],
+      "coreMeaning": "پیامد یا نتیجه ضمنی یک موضوع",
+      "note": "در بخش نتیجه‌گیری مقالات آکادمیک بسیار مهم است",
+      "trap": "implication (پیامد) با application (درخواست/کاربرد) اشتباه نگیرید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "connotation",
+      "translation": "بار معنایی / دلالت ضمنی",
+      "ipa": "/ˌkɑːnəˈteɪʃn/",
+      "partOfSpeech": "noun",
+      "example": "The word 'cheap' has negative connotations compared to 'affordable'.",
+      "definitions": [
+        "an idea or feeling that a word invokes in addition to its literal meaning"
+      ],
+      "synonyms": [
+        "association",
+        "implication",
+        "undertone"
+      ],
+      "antonyms": [
+        "denotation"
+      ],
+      "collocations": [
+        "negative connotation",
+        "positive connotation",
+        "cultural connotation"
+      ],
+      "wordFamily": [
+        "connote (v)",
+        "connotation (n)",
+        "connotative (adj)"
+      ],
+      "coreMeaning": "معنای ضمنی و احساسی یک کلمه فراتر از معنای اصلی",
+      "note": "در مقابل denotation (معنای تحت‌اللفظی) قرار دارد",
+      "trap": "connotation (بار معنایی) با denotation (معنای لفظی) فرق دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "denotation",
+      "translation": "معنای تحت‌اللفظی",
+      "ipa": "/ˌdiːnoʊˈteɪʃn/",
+      "partOfSpeech": "noun",
+      "example": "The denotation of 'home' is a place where one lives.",
+      "definitions": [
+        "the literal or primary meaning of a word"
+      ],
+      "synonyms": [
+        "definition",
+        "literal meaning"
+      ],
+      "antonyms": [
+        "connotation"
+      ],
+      "collocations": [
+        "literal denotation",
+        "word denotation",
+        "denotation and connotation"
+      ],
+      "wordFamily": [
+        "denote (v)",
+        "denotation (n)",
+        "denotative (adj)"
+      ],
+      "coreMeaning": "معنای اصلی و لفظی کلمه بدون بار احساسی",
+      "note": "در مقابل connotation (بار معنایی) قرار دارد",
+      "trap": "denotation (معنای لفظی) با definition (تعریف) تفاوت دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "annotate",
+      "translation": "حاشیه‌نویسی کردن",
+      "ipa": "/ˈænəteɪt/",
+      "partOfSpeech": "verb",
+      "example": "Students were asked to annotate the text with their observations.",
+      "definitions": [
+        "to add notes of explanation or comments to a text"
+      ],
+      "synonyms": [
+        "comment",
+        "gloss",
+        "note"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "annotate a text",
+        "annotate the bibliography",
+        "annotated edition"
+      ],
+      "wordFamily": [
+        "annotate (v)",
+        "annotation (n)",
+        "annotated (adj)"
+      ],
+      "coreMeaning": "اضافه کردن توضیحات و یادداشت‌ها به متن",
+      "note": "annotated bibliography = کتاب‌نامه با توضیحات",
+      "trap": "annotate (حاشیه‌نویسی) با narrate (روایت) اشتباه نگیرید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "excerpt",
+      "translation": "گزیده / عبارت بریده‌شده",
+      "ipa": "/ˈeksɜːrpt/",
+      "partOfSpeech": "noun",
+      "example": "The following excerpt illustrates the author's main argument.",
+      "definitions": [
+        "a short extract from a written work, film, or broadcast"
+      ],
+      "synonyms": [
+        "extract",
+        "passage",
+        "selection"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "brief excerpt",
+        "excerpt from a book",
+        "read an excerpt"
+      ],
+      "wordFamily": [
+        "excerpt (n/v)"
+      ],
+      "coreMeaning": "بخش کوتاهی از یک اثر مکتوب",
+      "note": "در مقالات آکادمیک برای ارائه شواهد از منابع استفاده می‌شود",
+      "trap": "excerpt (گزیده) با except (به‌جز) اشتباه نگیرید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "compile",
+      "translation": "گردآوری کردن",
+      "ipa": "/kəmˈpaɪl/",
+      "partOfSpeech": "verb",
+      "example": "The researcher compiled data from multiple sources.",
+      "definitions": [
+        "to produce something by assembling information from various sources"
+      ],
+      "synonyms": [
+        "assemble",
+        "gather",
+        "collect"
+      ],
+      "antonyms": [
+        "scatter"
+      ],
+      "collocations": [
+        "compile data",
+        "compile a list",
+        "compile information"
+      ],
+      "wordFamily": [
+        "compile (v)",
+        "compilation (n)"
+      ],
+      "coreMeaning": "جمع‌آوری و تنظیم اطلاعات از منابع مختلف",
+      "note": "در تهیه بخش مرور ادبیات و کتاب‌نامه کاربرد دارد",
+      "trap": "compile (گردآوری) با compose (نوشتن/ترکیب) فرق دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "draft",
+      "translation": "پیش‌نویس",
+      "ipa": "/dræft/",
+      "partOfSpeech": "noun",
+      "example": "The first draft of the essay was revised several times.",
+      "definitions": [
+        "a preliminary version of a piece of writing"
+      ],
+      "synonyms": [
+        "outline",
+        "sketch",
+        "version"
+      ],
+      "antonyms": [
+        "final version"
+      ],
+      "collocations": [
+        "first draft",
+        "rough draft",
+        "draft an essay"
+      ],
+      "wordFamily": [
+        "draft (n/v)",
+        "drafting (n)"
+      ],
+      "coreMeaning": "نسخه اولیه و مقدماتی نوشته",
+      "note": "نوشتن مقاله معمولاً شامل چندین پیش‌نویس است",
+      "trap": "draft (پیش‌نویس) با draught (جریان هوا) در بریتانیایی هم‌ریشه‌اند",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "revise",
+      "translation": "بازنگری کردن",
+      "ipa": "/rɪˈvaɪz/",
+      "partOfSpeech": "verb",
+      "example": "It is essential to revise your essay before submission.",
+      "definitions": [
+        "to re-examine and make alterations to written or printed matter"
+      ],
+      "synonyms": [
+        "amend",
+        "modify",
+        "rewrite"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "revise an essay",
+        "revise for exams",
+        "revise a draft"
+      ],
+      "wordFamily": [
+        "revise (v)",
+        "revision (n)"
+      ],
+      "coreMeaning": "بازبینی و اصلاح نوشته قبل از ارسال",
+      "note": "در بریتانیایی هم به معنای مطالعه برای امتحان است",
+      "trap": "revise (بازنگری) با review (بررسی) تفاوت عمق دارد — revise شامل تغییر است",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "outline",
+      "translation": "طرح کلی / سرفصل",
+      "ipa": "/ˈaʊtlaɪn/",
+      "partOfSpeech": "noun",
+      "example": "Before writing, create an outline of the main points.",
+      "definitions": [
+        "a general description or plan giving the essential features without the detail"
+      ],
+      "synonyms": [
+        "framework",
+        "plan",
+        "sketch"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "essay outline",
+        "outline the main points",
+        "brief outline"
+      ],
+      "wordFamily": [
+        "outline (n/v)"
+      ],
+      "coreMeaning": "نقشه یا طرح کلی نوشته قبل از شروع",
+      "note": "نوشتن outline اولین مرحله مقاله‌نویسی است",
+      "trap": "outline (طرح کلی) با outlay (هزینه) اشتباه نگیرید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "elaboration",
+      "translation": "بسط و توضیح",
+      "ipa": "/ɪˌlæbəˈreɪʃn/",
+      "partOfSpeech": "noun",
+      "example": "The essay needs more elaboration on the third point.",
+      "definitions": [
+        "the process of developing or presenting in detail"
+      ],
+      "synonyms": [
+        "expansion",
+        "detail",
+        "development"
+      ],
+      "antonyms": [
+        "simplification"
+      ],
+      "collocations": [
+        "further elaboration",
+        "elaboration of ideas",
+        "require elaboration"
+      ],
+      "wordFamily": [
+        "elaborate (v/adj)",
+        "elaboration (n)"
+      ],
+      "coreMeaning": "ارائه جزئیات بیشتر برای روشن‌تر شدن موضوع",
+      "note": "در نوشتن آکادمیک برای تقویت استدلال ضروری است",
+      "trap": "elaboration (بسط) با exaggeration (اغراق) فرق دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "transition",
+      "translation": "انتقال / گذار",
+      "ipa": "/trænˈzɪʃn/",
+      "partOfSpeech": "noun",
+      "example": "Smooth transitions between paragraphs improve the flow of the essay.",
+      "definitions": [
+        "the process of changing from one state or condition to another"
+      ],
+      "synonyms": [
+        "shift",
+        "change",
+        "passage"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "smooth transition",
+        "transition words",
+        "transition between ideas"
+      ],
+      "wordFamily": [
+        "transition (n/v)",
+        "transitional (adj)"
+      ],
+      "coreMeaning": "عبور از یک وضعیت به وضعیت دیگر",
+      "note": "transition words مثل however, furthermore, consequently",
+      "trap": "transition (انتقال) با transaction (معامله) اشتباه نگیرید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "coherence",
+      "translation": "انسجام",
+      "ipa": "/koʊˈhɪrəns/",
+      "partOfSpeech": "noun",
+      "example": "The essay lacked coherence, jumping between unrelated topics.",
+      "definitions": [
+        "the quality of being logical, consistent, and forming a unified whole"
+      ],
+      "synonyms": [
+        "consistency",
+        "logic",
+        "unity"
+      ],
+      "antonyms": [
+        "incoherence"
+      ],
+      "collocations": [
+        "lack coherence",
+        "maintain coherence",
+        "logical coherence"
+      ],
+      "wordFamily": [
+        "cohere (v)",
+        "coherent (adj)",
+        "coherence (n)"
+      ],
+      "coreMeaning": "کیفیت انسجام و یکپارچگی منطقی متن",
+      "note": "یکی از معیارهای اصلی نمره‌دهی در آیلتس و تافل",
+      "trap": "coherence (انسجام منطقی) با cohesion (پیوستگی ساختاری) فرق دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "cohesion",
+      "translation": "پیوستگی / چسبندگی",
+      "ipa": "/koʊˈhiːʒn/",
+      "partOfSpeech": "noun",
+      "example": "Cohesion is achieved through the use of linking words and pronouns.",
+      "definitions": [
+        "the action of forming a united whole; the sticking together of particles"
+      ],
+      "synonyms": [
+        "unity",
+        "connection",
+        "bond"
+      ],
+      "antonyms": [
+        "fragmentation"
+      ],
+      "collocations": [
+        "text cohesion",
+        "social cohesion",
+        "lack cohesion"
+      ],
+      "wordFamily": [
+        "cohere (v)",
+        "cohesive (adj)",
+        "cohesion (n)"
+      ],
+      "coreMeaning": "اتصال و پیوستگی بین بخش‌های متن",
+      "note": "cohesive devices: linking words, pronouns, synonyms",
+      "trap": "cohesion (پیوستگی ساختاری) با coherence (انسجام منطقی) متفاوت است",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "taxonomy",
+      "translation": "طبقه‌بندی / تاکسونومی",
+      "ipa": "/tækˈsɑːnəmi/",
+      "partOfSpeech": "noun",
+      "example": "The taxonomy of educational objectives includes cognitive, affective, and psychomotor domains.",
+      "definitions": [
+        "a system of classification; the branch of science concerned with classification"
+      ],
+      "synonyms": [
+        "classification",
+        "categorization",
+        "system"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "Bloom's taxonomy",
+        "create a taxonomy",
+        "taxonomy of species"
+      ],
+      "wordFamily": [
+        "taxonomy (n)",
+        "taxonomic (adj)"
+      ],
+      "coreMeaning": "سیستم طبقه‌بندی علمی",
+      "note": "Bloom's taxonomy در آموزش بسیار معروف است",
+      "trap": "taxonomy (طبقه‌بندی) با anatomy (کالبدشناسی) اشتباه نگیرید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "heuristic",
+      "translation": "کاوشگرانه / ابتکاری",
+      "ipa": "/hjʊˈrɪstɪk/",
+      "partOfSpeech": "adj",
+      "example": "The teacher used a heuristic approach to encourage independent thinking.",
+      "definitions": [
+        "enabling a person to discover or learn something for themselves through trial and error"
+      ],
+      "synonyms": [
+        "exploratory",
+        "investigative",
+        "trial-and-error"
+      ],
+      "antonyms": [
+        "algorithmic"
+      ],
+      "collocations": [
+        "heuristic method",
+        "heuristic approach",
+        "heuristic learning"
+      ],
+      "wordFamily": [
+        "heuristic (adj/n)",
+        "heuristically (adv)"
+      ],
+      "coreMeaning": "روش یادگیری از طریق آزمون و خطا و کاوش",
+      "note": "در مقابل algorithmic (الگوریتمی) قرار دارد",
+      "trap": "heuristic (کاوشگرانه) با hermetic (محکم بسته) اشتباه نگیرید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "pedagogy",
+      "translation": "روش‌شناسی تدریس / پداگوژی",
+      "ipa": "/ˈpedəɡɑːdʒi/",
+      "partOfSpeech": "noun",
+      "example": "Modern pedagogy emphasizes student-centered learning.",
+      "definitions": [
+        "the method and practice of teaching, especially as an academic subject"
+      ],
+      "synonyms": [
+        "teaching",
+        "instruction",
+        "education"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "pedagogy of teaching",
+        "critical pedagogy",
+        "effective pedagogy"
+      ],
+      "wordFamily": [
+        "pedagogy (n)",
+        "pedagogical (adj)",
+        "pedagogically (adv)"
+      ],
+      "coreMeaning": "علم و روش تدریس",
+      "note": "از ریشه یونانی paidagogos به معنای معلم",
+      "trap": "pedagogy (روش تدریس) با pediatrics (طب کودکان) اشتباه نگیرید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "curriculum",
+      "translation": "برنامه درسی",
+      "ipa": "/kəˈrɪkjələm/",
+      "partOfSpeech": "noun",
+      "example": "The school revised its curriculum to include more critical thinking skills.",
+      "definitions": [
+        "the subjects comprising a course of study in a school or college"
+      ],
+      "synonyms": [
+        "syllabus",
+        "program",
+        "coursework"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "school curriculum",
+        "design a curriculum",
+        "national curriculum"
+      ],
+      "wordFamily": [
+        "curriculum (n)",
+        "curricular (adj)"
+      ],
+      "coreMeaning": "مجموعه دروس و محتوای آموزشی یک دوره",
+      "note": "جمع: curricula یا curriculums",
+      "trap": "curriculum (برنامه درسی) با extracurricular (فرا برنامه‌ای) مرتبط‌اند",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "pedagogical",
+      "translation": "آموزشی / تدریسی",
+      "ipa": "/ˌpedəˈɡɑːdʒɪkl/",
+      "partOfSpeech": "adj",
+      "example": "The pedagogical approach varied across different institutions.",
+      "definitions": [
+        "relating to teaching, education, or its methods"
+      ],
+      "synonyms": [
+        "educational",
+        "instructional",
+        "didactic"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "pedagogical approach",
+        "pedagogical methods",
+        "pedagogical skills"
+      ],
+      "wordFamily": [
+        "pedagogy (n)",
+        "pedagogical (adj)",
+        "pedagogically (adv)"
+      ],
+      "coreMeaning": "مربوط به روش‌ها و اصول تدریس",
+      "note": "در مقالات آموزشی بسیار پرکاربرد است",
+      "trap": "pedagogical (آموزشی) با psychological (روان‌شناختی) تلفظ مشابه دارند",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "rubric",
+      "translation": "معیار ارزیابی / روبریک",
+      "ipa": "/ˈruːbrɪk/",
+      "partOfSpeech": "noun",
+      "example": "The teacher provided a rubric for grading the essays.",
+      "definitions": [
+        "a set of instructions or rules; a scoring guide for evaluating student work"
+      ],
+      "synonyms": [
+        "criteria",
+        "guidelines",
+        "framework"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "grading rubric",
+        "assessment rubric",
+        "follow the rubric"
+      ],
+      "wordFamily": [
+        "rubric (n)"
+      ],
+      "coreMeaning": "چارچوب و معیار مشخص برای ارزیابی و نمره‌دهی",
+      "note": "در ارزیابی آکادمیک برای شفافیت نمره‌دهی استفاده می‌شود",
+      "trap": "rubric (معیار ارزیابی) با rhetoric (بلاغت) اشتباه نگیرید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "plausible",
+      "translation": "محتمل / معقول",
+      "ipa": "/ˈplɔːzəbl/",
+      "partOfSpeech": "adj",
+      "example": "The hypothesis seems plausible but requires further testing.",
+      "definitions": [
+        "seeming reasonable or probable; believable"
+      ],
+      "synonyms": [
+        "credible",
+        "believable",
+        "likely"
+      ],
+      "antonyms": [
+        "implausible",
+        "unlikely"
+      ],
+      "collocations": [
+        "plausible explanation",
+        "seem plausible",
+        "plausible argument"
+      ],
+      "wordFamily": [
+        "plausible (adj)",
+        "plausibly (adv)",
+        "plausibility (n)"
+      ],
+      "coreMeaning": "به نظر منطقی و قابل قبول آمدن",
+      "note": "plausible ≠ true — فقط به نظر درست می‌آید",
+      "trap": "plausible (محتمل) با applicable (قابل اجرا) اشتباه نگیرید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "credible",
+      "translation": "معتبر / قابل اعتماد",
+      "ipa": "/ˈkredəbl/",
+      "partOfSpeech": "adj",
+      "example": "Always use credible sources in academic writing.",
+      "definitions": [
+        "able to be believed; convincing"
+      ],
+      "synonyms": [
+        "believable",
+        "trustworthy",
+        "reliable"
+      ],
+      "antonyms": [
+        "incredible",
+        "unreliable"
+      ],
+      "collocations": [
+        "credible source",
+        "credible evidence",
+        "credible witness"
+      ],
+      "wordFamily": [
+        "credit (n)",
+        "credible (adj)",
+        "credibility (n)"
+      ],
+      "coreMeaning": "قابل اعتماد و معتبر بودن",
+      "note": "منابع معتبر شامل مجلات peer-reviewed و کتاب‌های دانشگاهی است",
+      "trap": "credible (معتبر) با credulous (زودباور) فرق دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "scrutiny",
+      "translation": "بررسی موشکافانه",
+      "ipa": "/ˈskruːtəni/",
+      "partOfSpeech": "noun",
+      "example": "The research findings were subjected to intense scrutiny.",
+      "definitions": [
+        "critical observation or examination"
+      ],
+      "synonyms": [
+        "examination",
+        "inspection",
+        "review"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "under scrutiny",
+        "subject to scrutiny",
+        "close scrutiny"
+      ],
+      "wordFamily": [
+        "scrutinize (v)",
+        "scrutiny (n)"
+      ],
+      "coreMeaning": "بررسی دقیق و موشکافانه",
+      "note": "under scrutiny = زیر ذره‌بین بودن",
+      "trap": "scrutiny (بررسی دقیق) با scrutiny (جستجو) تفاوت عمق دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "rigorous",
+      "translation": "سخت‌گیرانه / دقیق",
+      "ipa": "/ˈrɪɡərəs/",
+      "partOfSpeech": "adj",
+      "example": "The study followed a rigorous methodology to ensure accuracy.",
+      "definitions": [
+        "extremely thorough, exhaustive, or accurate"
+      ],
+      "synonyms": [
+        "strict",
+        "thorough",
+        "meticulous"
+      ],
+      "antonyms": [
+        "lax",
+        "lenient"
+      ],
+      "collocations": [
+        "rigorous analysis",
+        "rigorous methodology",
+        "rigorous testing"
+      ],
+      "wordFamily": [
+        "rigor (n)",
+        "rigorous (adj)",
+        "rigorously (adv)"
+      ],
+      "coreMeaning": "بسیار دقیق و سخت‌گیرانه",
+      "note": "در تحقیقات علمی کیفیت بالا ضروری است",
+      "trap": "rigorous (دقیق) با vigorous (پرانرژی) اشتباه نگیرید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "robust",
+      "translation": "مستحکم / قوی",
+      "ipa": "/roʊˈbʌst/",
+      "partOfSpeech": "adj",
+      "example": "The argument is supported by robust evidence.",
+      "definitions": [
+        "strong and healthy; vigorous; able to withstand adverse conditions"
+      ],
+      "synonyms": [
+        "strong",
+        "solid",
+        "sound"
+      ],
+      "antonyms": [
+        "weak",
+        "fragile"
+      ],
+      "collocations": [
+        "robust evidence",
+        "robust methodology",
+        "robust debate"
+      ],
+      "wordFamily": [
+        "robust (adj)",
+        "robustly (adv)",
+        "robustness (n)"
+      ],
+      "coreMeaning": "محکم و مقاوم در برابر انتقاد",
+      "note": "در تحقیقات به معنای نتایج قابل اعتماد است",
+      "trap": "robust (مستحکم) با rustic (روستایی) اشتباه نگیرید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "nuance",
+      "translation": "ظرافت / تفاوت ظریف",
+      "ipa": "/ˈnuːɑːns/",
+      "partOfSpeech": "noun",
+      "example": "The essay demonstrates a nuanced understanding of the topic.",
+      "definitions": [
+        "a subtle difference in or shade of meaning, expression, or sound"
+      ],
+      "synonyms": [
+        "subtlety",
+        "shade",
+        "distinction"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "subtle nuance",
+        "nuanced argument",
+        "understand the nuances"
+      ],
+      "wordFamily": [
+        "nuance (n)",
+        "nuanced (adj)"
+      ],
+      "coreMeaning": "تفاوت ظریف و دقیق در معنا یا بیان",
+      "note": "نوشتن آکادمیک خوب نیازمند درک ظرافت‌هاست",
+      "trap": "nuance (ظرافت) با annoyance (آزار) تلفظ متفاوت دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "ambiguity",
+      "translation": "ابهام",
+      "ipa": "/ˌæmbɪˈɡjuːəti/",
+      "partOfSpeech": "noun",
+      "example": "The ambiguity of the statement led to different interpretations.",
+      "definitions": [
+        "the quality of being open to more than one interpretation; inexactness"
+      ],
+      "synonyms": [
+        "vagueness",
+        "uncertainty",
+        "obscurity"
+      ],
+      "antonyms": [
+        "clarity",
+        "precision"
+      ],
+      "collocations": [
+        "avoid ambiguity",
+        "reduce ambiguity",
+        "inherent ambiguity"
+      ],
+      "wordFamily": [
+        "ambiguous (adj)",
+        "ambiguity (n)",
+        "ambiguously (adv)"
+      ],
+      "coreMeaning": "قابل تفسیر بودن به بیش از یک شکل",
+      "note": "در نوشتن آکادمیک باید از ابهام اجتناب شود",
+      "trap": "ambiguity (ابهام) با ambivalence (دوگانگی احساس) فرق دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "explicit",
+      "translation": "صریح / آشکار",
+      "ipa": "/ɪkˈsplɪsɪt/",
+      "partOfSpeech": "adj",
+      "example": "The instructions must be explicit to avoid misunderstanding.",
+      "definitions": [
+        "stated clearly and in detail, leaving no room for confusion or doubt"
+      ],
+      "synonyms": [
+        "clear",
+        "direct",
+        "unambiguous"
+      ],
+      "antonyms": [
+        "implicit",
+        "vague"
+      ],
+      "collocations": [
+        "explicit statement",
+        "be explicit about",
+        "explicit instructions"
+      ],
+      "wordFamily": [
+        "explicit (adj)",
+        "explicitly (adv)"
+      ],
+      "coreMeaning": "بیان واضح و بدون ابهام",
+      "note": "در مقابل implicit (ضمنی) قرار دارد",
+      "trap": "explicit (صریح) با implicit (ضمنی) متضاد هستند",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "implicit",
+      "translation": "ضمنی / ناگفته",
+      "ipa": "/ɪmˈplɪsɪt/",
+      "partOfSpeech": "adj",
+      "example": "There was an implicit assumption that all participants agreed.",
+      "definitions": [
+        "implied though not plainly expressed; absolute and unquestioning"
+      ],
+      "synonyms": [
+        "implied",
+        "unspoken",
+        "tacit"
+      ],
+      "antonyms": [
+        "explicit"
+      ],
+      "collocations": [
+        "implicit meaning",
+        "implicit assumption",
+        "implicit bias"
+      ],
+      "wordFamily": [
+        "implicit (adj)",
+        "implicitly (adv)",
+        "implicate (v)"
+      ],
+      "coreMeaning": "بیان‌نشده ولی قابل درک از متن",
+      "note": "implicit bias = تعصب ناخودآگاه",
+      "trap": "implicit (ضمنی) با explicit (صریح) متضاد هستند",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "stipulate",
+      "translation": "شرط گذاشتن / مشخص کردن",
+      "ipa": "/ˈstɪpjuleɪt/",
+      "partOfSpeech": "verb",
+      "example": "The guidelines stipulate that all sources must be cited.",
+      "definitions": [
+        "to demand or specify a requirement as part of an agreement"
+      ],
+      "synonyms": [
+        "specify",
+        "require",
+        "demand"
+      ],
+      "antonyms": [],
+      "collocations": [
+        "stipulate conditions",
+        "stipulate requirements",
+        "as stipulated"
+      ],
+      "wordFamily": [
+        "stipulate (v)",
+        "stipulation (n)"
+      ],
+      "coreMeaning": "مشخص کردن شرایط یا الزامات",
+      "note": "در متون حقوقی و آکادمیک رسمی کاربرد دارد",
+      "trap": "stipulate (شرط گذاشتن) با simulate (شبیه‌سازی) اشتباه نگیرید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "concede",
+      "translation": "اعتراف کردن / پذیرفتن",
+      "ipa": "/kənˈsiːd/",
+      "partOfSpeech": "verb",
+      "example": "The author concedes that the sample size was limited.",
+      "definitions": [
+        "to admit that something is true after first denying or resisting it"
+      ],
+      "synonyms": [
+        "acknowledge",
+        "admit",
+        "accept"
+      ],
+      "antonyms": [
+        "deny",
+        "reject"
+      ],
+      "collocations": [
+        "concede a point",
+        "concede defeat",
+        "concede that"
+      ],
+      "wordFamily": [
+        "concede (v)",
+        "concession (n)"
+      ],
+      "coreMeaning": "پذیرش اکراه‌آمیز یک واقعیت یا اشتباه",
+      "note": "در مقالات آکادمیک برای نشان دادن صداقت علمی استفاده می‌شود",
+      "trap": "concede (اعتراف) با conceit (خودپسندی) اشتباه نگیرید",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    },
+    {
+      "word": "counterargument",
+      "translation": "استدلال متقابل",
+      "ipa": "/ˈkaʊntərˌɑːrɡjumənt/",
+      "partOfSpeech": "noun",
+      "example": "A strong essay addresses potential counterarguments.",
+      "definitions": [
+        "an argument put forward to oppose an idea or theory developed in another argument"
+      ],
+      "synonyms": [
+        "objection",
+        "rebuttal",
+        "opposing view"
+      ],
+      "antonyms": [
+        "supporting argument"
+      ],
+      "collocations": [
+        "present a counterargument",
+        "address counterarguments",
+        "strong counterargument"
+      ],
+      "wordFamily": [
+        "counter (prefix)",
+        "argument (n)"
+      ],
+      "coreMeaning": "استدلالی که علیه نظر مطرح‌شده ارائه می‌شود",
+      "note": "پرداختن به counterarguments قوت مقاله را افزایش می‌دهد",
+      "trap": "counterargument (استدلال متقابل) با contradiction (تناقض) فرق دارد",
+      "tags": [
+        "B2",
+        "academic"
+      ]
+    }
+  ]
+}
